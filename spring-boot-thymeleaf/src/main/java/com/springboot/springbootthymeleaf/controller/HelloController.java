@@ -43,7 +43,9 @@ public class HelloController {
 
         map.put("list", list);
 
-        request.setAttribute("map", map);
+        map.put("flag", true);
+
+        request.setAttribute("data", map);
         return "hello";
     }
 }

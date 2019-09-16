@@ -4,25 +4,25 @@ spring:
   application:
     name: spring-boot-thymleaf
   thymeleaf:
-    # ¹Ø±Õthymeleaf»º´æ ¿ª·¢Ê±Ê¹ÓÃ ·ñÔòÃ»ÓĞÊµÊ±»­Ãæ
+    # å…³é—­thymeleafç¼“å­˜ å¼€å‘æ—¶ä½¿ç”¨ å¦åˆ™æ²¡æœ‰å®æ—¶ç”»é¢
     cache: false
-    # ¼ì²éÄ£°åÊÇ·ñ´æÔÚ£¬È»ºóÔÙ³ÊÏÖ
+    # æ£€æŸ¥æ¨¡æ¿æ˜¯å¦å­˜åœ¨ï¼Œç„¶åå†å‘ˆç°
     check-template-location: true
     # Content-Type value.
     servlet:
       content-type: text/html
-    # ÆôÓÃMVC ThymeleafÊÓÍ¼·Ö±æÂÊ
+    # å¯ç”¨MVC Thymeleafè§†å›¾åˆ†è¾¨ç‡
     enabled: true
     # Template encoding.
     encoding: UTF-8
-    # ¹Ø±ÕÑÏ¸ñÄ£Ê½
+    # å…³é—­ä¸¥æ ¼æ¨¡å¼
     mode: LEGACYHTML5
     # Prefix that gets prepended to view names when building a URL.
     prefix: classpath:/templates/
     # Suffix that gets appended to view names when building a URL.
     suffix: .html
   mvc:
-    # Ö¸¶¨¾²Ì¬×ÊÔ´´¦ÀíÂ·¾¶
+    # æŒ‡å®šé™æ€èµ„æºå¤„ç†è·¯å¾„
     static-path-pattern: /static/**
     view:
       suffix: .html
