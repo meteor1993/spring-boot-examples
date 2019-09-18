@@ -16,14 +16,8 @@ public class UserModel {
     @Id
     @GeneratedValue
     private Long id;
-    @Column(nullable = false, unique = true)
-    private String userName;
-    @Column(nullable = false)
-    private String passWord;
-    @Column(nullable = false, unique = true)
-    private String email;
     @Column(nullable = true, unique = true)
     private String nickName;
     @Column(nullable = false)
-    private String regTime;
+    private int age;
 }
