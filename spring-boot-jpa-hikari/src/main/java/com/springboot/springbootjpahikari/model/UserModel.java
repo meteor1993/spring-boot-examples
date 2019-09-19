@@ -1,6 +1,7 @@
 package com.springboot.springbootjpahikari.model;
 
 import lombok.Data;
+import org.hibernate.annotations.GenericGenerator;
 
 import javax.persistence.*;
 
@@ -14,7 +15,9 @@ import javax.persistence.*;
 @Table(name = "user")
 public class UserModel {
     @Id
-    @GeneratedValue
+    @GeneratedValue(generator = "paymentableGenerator")
+    @GenericGenerator(name = "paymentableGenerator", strategy = "uuid")
+    @Column(name ="ID", nullable=false, length=36)
     private Long id;
     @Column(nullable = true, unique = true)
     private String nickName;
