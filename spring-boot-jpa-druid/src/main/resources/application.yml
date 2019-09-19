@@ -1,0 +1,14 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: spring-boot-jpa-druid
+  profiles:
+    active: decrypt
+  jpa:
+    database: mysql
+    show-sql: true
+    generate-ddl: true
+    database-platform: org.hibernate.dialect.MySQL5Dialect
+    hibernate:
+      ddl-auto: update
