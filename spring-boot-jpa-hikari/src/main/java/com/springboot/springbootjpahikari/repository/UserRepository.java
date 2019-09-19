@@ -10,8 +10,8 @@ import java.util.List;
  * @Version: 1.0
  * @Desc:
  */
-public interface UserRepository extends JpaRepository<UserModel, Long> {
-    UserModel getByIdIs(Long id);
+public interface UserRepository extends JpaRepository<UserModel, String> {
+    UserModel getByIdIs(String id);
 
     UserModel findByNickName(String nickName);
 

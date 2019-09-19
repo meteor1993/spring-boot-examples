@@ -4,10 +4,7 @@ import com.springboot.springbootjpahikari.model.UserModel;
 import com.springboot.springbootjpahikari.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Sort;
-import org.springframework.web.bind.annotation.DeleteMapping;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
@@ -32,7 +29,7 @@ public class UserController {
      * @return
      */
     @PostMapping("/user")
-    public UserModel user(UserModel user) {
+    public UserModel user(@RequestBody UserModel user) {
         return userRepository.save(user);
     }
 
@@ -42,7 +39,7 @@ public class UserController {
      * @return
      */
     @DeleteMapping("/user")
-    public String deleteUserById(Long id) {
+    public String deleteUserById(String id) {
         userRepository.deleteById(id);
         return "success";
     }
