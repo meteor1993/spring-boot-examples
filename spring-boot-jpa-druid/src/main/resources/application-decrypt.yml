@@ -1,16 +1,16 @@
 spring:
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
-    url: jdbc:mysql://172.16.96.112:3306/test?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=UTF-8&useSSL=false
+    url: jdbc:mysql://192.168.0.128:3306/test?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=UTF-8&useSSL=false
     username: root
     # 加密后密文，原密码为 123456
-    password: pJRm0wPfnOkjULnm8tCx5JFQHGCtgSs2MNkwWziN7luLIU2mmc5V3x7nylJEYMSjpKNoawal8Pe7oty0dSKSkg==
+    password: Y464AerH8tabxQg5DlkUej6gQ64KY73ahgiPyaB0vguLBLjUEEkVu6VBueiXxcnMfVjh1Nbd+lJNUTnS1a3/xg==
     driverClassName: com.mysql.cj.jdbc.Driver
     druid:
       filter:
         config:
           enabled: true
-      connection-properties: config.decrypt=true;config.decrypt.key=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKo5mHbMnE3/7DHKulE4lEQ/eq1vaWoO75WsydEENVaQwHLBpKO9VcE2aCxLhjkmcuHDwqBaQjMRAYctwmgGyaUCAwEAAQ==
+      connection-properties: config.decrypt=true;config.decrypt.key=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIddoZ2mbjHu+mG+KYu6IEgBDDnGr5s+wZaPA2MXoqcXmUIZ6154MXNIAEOjkZaHy1rQ5uku2yO8Hw09hBcv9g8CAwEAAQ==
       # 连接池的配置信息
       # 初始化时建立物理连接的个数
       initial-size: 3
@@ -39,11 +39,13 @@ spring:
       # 当值大于0时poolPreparedStatements会自动修改为true
       max-pool-prepared-statement-per-connection-size: 20
       # 合并多个DruidDataSource的监控数据
-      use-global-data-source-stat: true
+      use-global-data-source-stat: false
       # 配置扩展插件
       filters: stat,wall,slf4j
       # 通过connectProperties属性来打开mergeSql功能；慢SQL记录
       connect-properties: druid.stat.mergeSql=true;druid.stat.slowSqlMillis=5000
+      # 定时输出统计信息到日志中，并每次输出日志会导致清零（reset）连接池相关的计数器。
+      time-between-log-stats-millis: 300000
       # 配置DruidStatFilter
       web-stat-filter:
         enabled: true

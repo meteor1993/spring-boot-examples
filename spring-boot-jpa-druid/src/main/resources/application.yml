@@ -9,6 +9,9 @@ spring:
     database: mysql
     show-sql: true
     generate-ddl: true
-    database-platform: org.hibernate.dialect.MySQL5Dialect
+    database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
     hibernate:
       ddl-auto: update
+    properties:
+      hibernate:
+        format_sql: true

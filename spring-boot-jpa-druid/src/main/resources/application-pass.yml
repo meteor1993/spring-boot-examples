@@ -1,7 +1,7 @@
 spring:
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
-    url: jdbc:mysql://172.16.96.112:3306/test?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=UTF-8&useSSL=false
+    url: jdbc:mysql://192.168.0.128:3306/test?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=UTF-8&useSSL=false
     username: root
     password: 123456
     driverClassName: com.mysql.cj.jdbc.Driver
@@ -34,11 +34,13 @@ spring:
       # 当值大于0时poolPreparedStatements会自动修改为true
       max-pool-prepared-statement-per-connection-size: 20
       # 合并多个DruidDataSource的监控数据
-      use-global-data-source-stat: true
+      use-global-data-source-stat: false
       # 配置扩展插件
       filters: stat,wall,slf4j
       # 通过connectProperties属性来打开mergeSql功能；慢SQL记录
-      connect-properties: druid.stat.mergeSql\=true;druid.stat.slowSqlMillis\=5000
+      connect-properties: druid.stat.mergeSql=true;druid.stat.slowSqlMillis=5000
+      # 定时输出统计信息到日志中，并每次输出日志会导致清零（reset）连接池相关的计数器。
+      time-between-log-stats-millis: 300000
       # 配置DruidStatFilter
       web-stat-filter:
         enabled: true
