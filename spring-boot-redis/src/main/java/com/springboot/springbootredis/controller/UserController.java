@@ -64,8 +64,6 @@ public class UserController {
             request.getSession().setAttribute("url", "https://www.geekdigging.com/");
         }
         log.info("获取session内容为： {}", request.getSession().getAttribute("url"));
-        log.info(request.getRequestedSessionId());
-        log.info(request.getSession().getId());
         return request.getRequestedSessionId();
     }
 }
