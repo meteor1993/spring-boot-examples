@@ -6,9 +6,12 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.data.redis.core.StringRedisTemplate;
+import org.springframework.util.StringUtils;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpSession;
 import java.io.Serializable;
 
 /**
@@ -52,5 +55,17 @@ public class UserController {
         log.info("当前 get 对象：{}", user);
 
         userService.delete(5L);
+    }
+
+    @GetMapping("/getBlogUrl")
+    public String getSessionId(HttpServletRequest request) {
+        String url = (String) request.getSession().getAttribute("url");
+        if (StringUtils.isEmpty(url)) {
+            request.getSession().setAttribute("url", "https://www.geekdigging.com/");
+        }
+        log.info("获取session内容为： {}", request.getSession().getAttribute("url"));
+        log.info(request.getRequestedSessionId());
+        log.info(request.getSession().getId());
+        return request.getRequestedSessionId();
     }
 }
