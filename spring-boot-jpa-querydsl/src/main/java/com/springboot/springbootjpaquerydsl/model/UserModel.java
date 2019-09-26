@@ -4,6 +4,7 @@ import lombok.Data;
 import org.hibernate.annotations.GenericGenerator;
 
 import javax.persistence.*;
+import java.util.Date;
 import java.util.List;
 
 /**
@@ -27,5 +28,7 @@ public class UserModel {
     private String nickName;
 
     private int age;
+
+    private Date createDate;
 
 }

@@ -11,7 +11,10 @@ import java.util.List;
  * @Desc:
  */
 public interface LessonService {
+
     List<LessonModel> findLessonList(String name, Date startDate, String address, String userId) throws ParseException;
 
     List<LessonModel> findLessonDynaList(String name, Date startDate, String address, String userId) throws ParseException;
+
+    List<LessonModel> findLessonSubqueryList(String name, String address);
 }

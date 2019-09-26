@@ -1,6 +1,7 @@
 package com.springboot.springbootjpaquerydsl.service.impl;
 
 import com.querydsl.core.BooleanBuilder;
+import com.querydsl.jpa.JPAExpressions;
 import com.querydsl.jpa.impl.JPAQueryFactory;
 import com.springboot.springbootjpaquerydsl.model.LessonModel;
 import com.springboot.springbootjpaquerydsl.model.QLessonModel;
@@ -24,6 +25,7 @@ import java.util.List;
  */
 @Service
 public class LessonServiceImpl implements LessonService {
+
     @Autowired
     JPAQueryFactory queryFactory;
 
@@ -31,6 +33,7 @@ public class LessonServiceImpl implements LessonService {
     public List<LessonModel> findLessonList(String name, Date startDate, String address, String userId) throws ParseException {
         QLessonModel lessonModel = QLessonModel.lessonModel;
         SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd hh:mm:ss");
+        // 多条件查询示例
         return queryFactory.selectFrom(lessonModel)
                 .where(
                         lessonModel.name.like("%" + name + "%")
@@ -46,6 +49,7 @@ public class LessonServiceImpl implements LessonService {
         QLessonModel lessonModel = QLessonModel.lessonModel;
         SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd hh:mm:ss");
 
+        // 动态查询示例
         BooleanBuilder builder = new BooleanBuilder();
 
         if (!StringUtils.isEmpty(name)){
@@ -65,5 +69,19 @@ public class LessonServiceImpl implements LessonService {
         }
 
         return queryFactory.selectFrom(lessonModel).where(builder).fetch();
+    }
+
+    @Override
+    public List<LessonModel> findLessonSubqueryList(String name, String address) {
+        QLessonModel lessonModel = QLessonModel.lessonModel;
+        // 子查询示例，并无实际意义
+        return queryFactory.selectFrom(lessonModel)
+                .where(lessonModel.name.in(
+                        JPAExpressions
+                                .select(lessonModel.name)
+                                .from(lessonModel)
+                                .where(lessonModel.address.eq(address))
+                ))
+                .fetch();
     }
 }
