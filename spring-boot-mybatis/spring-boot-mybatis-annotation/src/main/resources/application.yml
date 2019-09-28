@@ -4,7 +4,7 @@ spring:
   application:
     name: spring-boot-mybatis-xml
   datasource:
-    url: jdbc:mysql://192.168.0.128:3306/test?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=UTF-8&useSSL=false
+    url: jdbc:mysql://localhost:3306/test?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=UTF-8&useSSL=false
     username: root
     password: 123456
     driver-class-name: com.mysql.cj.jdbc.Driver

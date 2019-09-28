@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
-<mapper namespace="com.neo.mapper.UserMapper" >
+<mapper namespace="com.springboot.springbootmybatisxml.mapper.UserMapper" >
 
     <resultMap id="BaseResultMap" type="com.springboot.springbootmybatisxml.model.User" >
         <id column="id" property="id" jdbcType="VARCHAR" />
         <result column="nick_name" property="nickName" jdbcType="VARCHAR" />
-        <result column="age" property="age" jdbcType="int" />
-        <result column="create_date" property="createDate" javaType="datetime"/>
+        <result column="age" property="age" jdbcType="INTEGER" />
+        <result column="create_date" property="createDate" jdbcType="TIME"/>
     </resultMap>
 
     <sql id="Base_Column_List" >
-        id, nickName, age, createDate
+        id, nick_name, age, create_date
     </sql>
 
     <select id="getAll" resultMap="BaseResultMap"  >
         SELECT
-        <include refid="Base_Column_List" />
+            <include refid="Base_Column_List" />
         FROM user
     </select>
 
-    <select id="getUser" parameterType="java.lang.Long" resultMap="com.springboot.springbootmybatisxml.model.User" >
+    <select id="getUser" parameterType="java.lang.String" resultMap="BaseResultMap" >
         SELECT
             <include refid="Base_Column_List" />
         FROM
@@ -28,29 +28,32 @@
     </select>
 
     <insert id="insertUser" parameterType="com.springboot.springbootmybatisxml.model.User">
+        <selectKey keyProperty="id" resultType="java.lang.String" order="BEFORE">
+            select uuid() as id from dual
+        </selectKey>
        INSERT INTO
        		user
-       		(nick_name, age, create_date)
+       		(id, nick_name, age, create_date)
        	VALUES
-       		(#{nickName}, #{age}, #{createDate})
+       		(#{id}, #{nickName}, #{age}, #{createDate})
     </insert>
 
     <update id="updateUser" parameterType="com.springboot.springbootmybatisxml.model.User">
         UPDATE
             user
         SET
-            <if test="nickName != null">nick_name = #{nickName},</if>
-            <if test="age != null">age = #{age},</if>
-            <if test="createDate != null">create_date = #{createDate}</if>
+        <if test="nickName != null">nick_name = #{nickName},</if>
+        <if test="age != null">age = #{age},</if>
+        <if test="createDate != null">create_date = #{createDate}</if>
         WHERE
             id = #{id}
     </update>
 
-    <delete id="deleteUser" parameterType="java.lang.Long">
-        DELETE FROM
+    <delete id="deleteUser" parameterType="java.lang.String">
+       DELETE FROM
        		 user
-        WHERE
-       		 id  = #{id}
+       WHERE
+       		 id = #{id}
     </delete>
 
 </mapper>

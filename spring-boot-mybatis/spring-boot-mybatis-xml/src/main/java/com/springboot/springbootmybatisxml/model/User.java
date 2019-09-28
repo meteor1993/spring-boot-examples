@@ -1,6 +1,8 @@
 package com.springboot.springbootmybatisxml.model;
 
+import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 import java.util.Date;
 
@@ -9,6 +11,8 @@ import java.util.Date;
  * @Desc:
  */
 @Data
+@AllArgsConstructor
+@NoArgsConstructor
 public class User {
     private String id;
 

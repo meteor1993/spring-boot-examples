@@ -5,7 +5,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@MapperScan("com.springboot.springbootmybatisxml.mapper")
+@MapperScan("com.springboot.springbootmybatisannotation.mapper")
 public class SpringBootMybatisAnnotationApplication {
 
     public static void main(String[] args) {

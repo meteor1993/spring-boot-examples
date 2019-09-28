@@ -6,6 +6,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
+import java.util.Date;
 import java.util.List;
 
 /**
@@ -24,23 +25,24 @@ public class UserController {
         return userMapper.getAll();
     }
 
-    @GetMapping("/getUser")
-    public User getUser(Long id) {
+    @GetMapping("/getUser/{id}")
+    public User getUser(@PathVariable("id") String id) {
         return userMapper.getUser(id);
     }
 
     @PostMapping("/add")
-    public void save(@RequestBody User user) {
-        userMapper.insertUser(user);
+    public Long save(@RequestBody User user) {
+        user.setCreateDate(new Date());
+        return userMapper.insertUser(user);
     }
 
     @PostMapping("/update")
-    public void update(@RequestBody User user) {
-        userMapper.updateUser(user);
+    public Long update(@RequestBody User user) {
+        return userMapper.updateUser(user);
     }
 
     @DeleteMapping("/delete/{id}")
-    public void delete(@PathVariable("id") Long id) {
-        userMapper.deleteUser(id);
+    public Long delete(@PathVariable("id") String id) {
+        return userMapper.deleteUser(id);
     }
 }

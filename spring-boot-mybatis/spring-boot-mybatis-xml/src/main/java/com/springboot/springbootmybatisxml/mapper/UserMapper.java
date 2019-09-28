@@ -12,11 +12,11 @@ public interface UserMapper {
 
     List<User> getAll();
 
-    User getUser(Long id);
+    User getUser(String id);
 
     Long insertUser(User user);
 
     Long updateUser(User user);
 
-    Long deleteUser(Long id);
+    Long deleteUser(String id);
 }
