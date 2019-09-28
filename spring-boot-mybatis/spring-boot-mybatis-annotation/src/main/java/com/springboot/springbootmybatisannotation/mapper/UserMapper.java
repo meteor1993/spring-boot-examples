@@ -11,7 +11,6 @@ import java.util.List;
  * @Version: 1.0
  * @Desc:
  */
-@Service
 public interface UserMapper {
 
     @Select("select * from user")
