@@ -23,6 +23,14 @@
 
 * [Spring Boot （三）： ORM 框架 JPA 与连接池 Hikari](https://www.geekdigging.com/2019/09/19/2405775053/)
 
+* [Spring Boot （四）： Druid 连接池密码加密与监控](https://www.geekdigging.com/2019/09/22/1068168916/)
+
+* [Spring Boot （五）： Redis缓存使用姿势盘点](https://www.geekdigging.com/2019/09/24/2171701522/)
+
+* [Spring Boot （六）： 为 JPA 插上翅膀的 QueryDSL](https://www.geekdigging.com/2019/09/26/1814805575/)
+
+* [Spring Boot （七）： Mybatis极简配置](https://www.geekdigging.com/2019/09/28/3684964092/)
+
 * 其余文章笔者努力更新中，欢迎大家持续关注：）
 
 顺便打个广告：
