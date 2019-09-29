@@ -1,10 +1,12 @@
 package com.springboot.springbootmybatisplus.controller;
 
+import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
+import com.baomidou.mybatisplus.core.metadata.IPage;
+import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.springboot.springbootmybatisplus.mapper.UserMapper;
 import com.springboot.springbootmybatisplus.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
@@ -21,8 +23,40 @@ public class UserController {
     @Autowired
     UserMapper userMapper;
 
-    @GetMapping("getAll")
+    @GetMapping("/getAll")
     public List<User> getAll() {
         return userMapper.selectList(null);
+    }
+
+    @PostMapping("/insertUser")
+    public Integer insertUser(@RequestBody User user) {
+        return userMapper.insert(user);
+    }
+
+    @PostMapping("/updateUser")
+    public Integer updateUser(@RequestBody User user) {
+        return userMapper.updateById(user);
+    }
+
+    @DeleteMapping("/deleteUser/{id}")
+    public Integer deleteUser(@PathVariable("id") String id) {
+        return userMapper.deleteById(id);
+    }
+
+    @GetMapping("/getUser")
+    public List<User> getUser() {
+        QueryWrapper<User> queryWrapper = new QueryWrapper<>();
+
+        queryWrapper
+                .isNotNull("nick_name")
+                .ge("age", 18);
+        return userMapper.selectList(queryWrapper);
+    }
+
+    @GetMapping("/findPage")
+    public IPage<User> findPage() {
+        Page<User> page = new Page<>(1, 5);
+
+        return userMapper.selectPage(page, null);
     }
 }
