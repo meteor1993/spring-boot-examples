@@ -1,0 +1,22 @@
+server:
+  port: 8080
+info:
+  app:
+    name: spring-boot-actuator
+    version: 1.0.0
+spring:
+  security:
+    user:
+      name: admin
+      password: admin
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+#      base-path: /monitor
+  endpoint:
+    health:
+      show-details: always
+    shutdown:
+      enabled: true
