@@ -14,7 +14,10 @@ management:
     web:
       exposure:
         include: '*'
-#      base-path: /monitor
+      cors:
+        allowed-origins: http://www.geekdigging.com
+        allowed-methods: GET,POST
+  #      base-path: /monitor
   endpoint:
     health:
       show-details: always
