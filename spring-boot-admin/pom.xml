@@ -19,6 +19,7 @@
         <module>spring-boot-admin-server</module>
         <module>spring-boot-eureka-server</module>
         <module>spring-boot-admin-client</module>
+        <module>spring-boot-admin-clienta</module>
     </modules>
 
     <properties>
