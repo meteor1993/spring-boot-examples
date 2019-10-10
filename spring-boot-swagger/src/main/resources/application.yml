@@ -4,4 +4,4 @@ spring:
   application:
     name: spring-boot-swagger
   profiles:
-    active: pro
+    active: dev
