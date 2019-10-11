@@ -54,3 +54,7 @@
 ## [Spring Cloud 系列文章](https://www.geekdigging.com/categories/SpringCloud)
 
 ## [Spring Cloud Alibaba 系列文章](https://www.geekdigging.com/categories/SpringCloudAlibaba/)
+
+* [Github代码仓库](https://github.com/meteor1993/SpringCloudLearning)
+
+* [Gitee代码仓库](https://gitee.com/inwsy/SpringCloudLearning)
