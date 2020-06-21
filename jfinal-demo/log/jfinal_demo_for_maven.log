@@ -1,0 +1,2573 @@
+
+2020-06-21 16:08:48
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2020-06-21 16:08:48
+[INFO]-[Thread: main]-[io.undertow.Undertow.start()]: starting server: Undertow - 2.0.30.Final
+
+2020-06-21 16:08:48
+[INFO]-[Thread: main]-[org.xnio.Xnio.<clinit>()]: XNIO version 3.3.8.Final
+
+2020-06-21 16:08:48
+[INFO]-[Thread: main]-[org.xnio.nio.NioXnio.<clinit>()]: XNIO NIO Implementation Version 3.3.8.Final
+
+2020-06-21 16:09:43
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2020-06-21 16:09:43
+[INFO]-[Thread: main]-[io.undertow.Undertow.start()]: starting server: Undertow - 2.0.30.Final
+
+2020-06-21 16:09:43
+[INFO]-[Thread: main]-[org.xnio.Xnio.<clinit>()]: XNIO version 3.3.8.Final
+
+2020-06-21 16:09:43
+[INFO]-[Thread: main]-[org.xnio.nio.NioXnio.<clinit>()]: XNIO NIO Implementation Version 3.3.8.Final
+
+2020-06-21 16:10:03
+[DEBUG]-[Thread: main]-[io.undertow.UndertowLogger.<clinit>()]: Logging Provider: org.jboss.logging.Log4jLoggerProvider
+
+2020-06-21 16:10:03
+[DEBUG]-[Thread: main]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting default session timeout to 1800
+
+2020-06-21 16:10:03
+[DEBUG]-[Thread: main]-[io.undertow.server.session.InMemorySessionManager.registerSessionListener()]: Registered session listener io.undertow.servlet.core.SessionListenerBridge@357246de
+
+2020-06-21 16:10:03
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2020-06-21 16:10:03
+[INFO]-[Thread: main]-[io.undertow.Undertow.start()]: starting server: Undertow - 2.0.30.Final
+
+2020-06-21 16:10:03
+[INFO]-[Thread: main]-[org.xnio.Xnio.<clinit>()]: XNIO version 3.3.8.Final
+
+2020-06-21 16:10:03
+[INFO]-[Thread: main]-[org.xnio.nio.NioXnio.<clinit>()]: XNIO NIO Implementation Version 3.3.8.Final
+
+2020-06-21 16:10:04
+[DEBUG]-[Thread: XNIO-1 I/O-1]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-1', selector sun.nio.ch.WindowsSelectorImpl@75ff6ce
+
+2020-06-21 16:10:04
+[DEBUG]-[Thread: XNIO-1 I/O-12]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-12', selector sun.nio.ch.WindowsSelectorImpl@49561663
+
+2020-06-21 16:10:04
+[DEBUG]-[Thread: XNIO-1 I/O-11]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-11', selector sun.nio.ch.WindowsSelectorImpl@48adc7a4
+
+2020-06-21 16:10:04
+[DEBUG]-[Thread: XNIO-1 I/O-6]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-6', selector sun.nio.ch.WindowsSelectorImpl@6a663016
+
+2020-06-21 16:10:04
+[DEBUG]-[Thread: XNIO-1 I/O-8]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-8', selector sun.nio.ch.WindowsSelectorImpl@7132b291
+
+2020-06-21 16:10:04
+[DEBUG]-[Thread: XNIO-1 I/O-4]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-4', selector sun.nio.ch.WindowsSelectorImpl@3436c9b0
+
+2020-06-21 16:10:04
+[DEBUG]-[Thread: XNIO-1 I/O-5]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-5', selector sun.nio.ch.WindowsSelectorImpl@5f0b4914
+
+2020-06-21 16:10:04
+[DEBUG]-[Thread: XNIO-1 I/O-2]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-2', selector sun.nio.ch.WindowsSelectorImpl@7adeac22
+
+2020-06-21 16:10:04
+[DEBUG]-[Thread: XNIO-1 I/O-3]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-3', selector sun.nio.ch.WindowsSelectorImpl@5c9b7a3
+
+2020-06-21 16:10:04
+[DEBUG]-[Thread: XNIO-1 Accept]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 Accept', selector sun.nio.ch.WindowsSelectorImpl@4cb894c4
+
+2020-06-21 16:10:04
+[DEBUG]-[Thread: XNIO-1 I/O-10]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-10', selector sun.nio.ch.WindowsSelectorImpl@3fe73f90
+
+2020-06-21 16:10:04
+[DEBUG]-[Thread: XNIO-1 I/O-7]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-7', selector sun.nio.ch.WindowsSelectorImpl@611816df
+
+2020-06-21 16:10:04
+[DEBUG]-[Thread: XNIO-1 I/O-9]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-9', selector sun.nio.ch.WindowsSelectorImpl@60e4ec14
+
+2020-06-21 16:10:04
+[DEBUG]-[Thread: main]-[io.undertow.Undertow.start()]: Configuring listener with protocol HTTP for interface 0.0.0.0 and port 80
+
+2020-06-21 16:10:16
+[DEBUG]-[Thread: XNIO-1 I/O-1]-[io.undertow.util.PathMatcher.match()]: Matched default handler path /user/index
+
+2020-06-21 16:10:16
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authenticate()]: Attempting to authenticate /user/index, authentication required: false
+
+2020-06-21 16:10:16
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl$AuthAttempter.transition()]: Authentication outcome was NOT_ATTEMPTED with method io.undertow.security.impl.CachedAuthenticatedSessionMechanism@3aaee9ff for /user/index
+
+2020-06-21 16:10:16
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authTransition()]: Authentication result was ATTEMPTED for /user/index
+
+2020-06-21 16:11:16
+[DEBUG]-[Thread: XNIO-1 I/O-1]-[io.undertow.server.protocol.ParseTimeoutUpdater.run()]: Timing out idle connection from /0:0:0:0:0:0:0:1:6260
+
+2020-06-21 16:11:35
+[DEBUG]-[Thread: main]-[io.undertow.UndertowLogger.<clinit>()]: Logging Provider: org.jboss.logging.Log4jLoggerProvider
+
+2020-06-21 16:11:35
+[DEBUG]-[Thread: main]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting default session timeout to 1800
+
+2020-06-21 16:11:35
+[DEBUG]-[Thread: main]-[io.undertow.server.session.InMemorySessionManager.registerSessionListener()]: Registered session listener io.undertow.servlet.core.SessionListenerBridge@6e3c1e69
+
+2020-06-21 16:11:36
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2020-06-21 16:11:36
+[INFO]-[Thread: main]-[io.undertow.Undertow.start()]: starting server: Undertow - 2.0.30.Final
+
+2020-06-21 16:11:36
+[INFO]-[Thread: main]-[org.xnio.Xnio.<clinit>()]: XNIO version 3.3.8.Final
+
+2020-06-21 16:11:36
+[INFO]-[Thread: main]-[org.xnio.nio.NioXnio.<clinit>()]: XNIO NIO Implementation Version 3.3.8.Final
+
+2020-06-21 16:11:36
+[DEBUG]-[Thread: XNIO-1 I/O-1]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-1', selector sun.nio.ch.WindowsSelectorImpl@4d09efa3
+
+2020-06-21 16:11:36
+[DEBUG]-[Thread: XNIO-1 I/O-3]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-3', selector sun.nio.ch.WindowsSelectorImpl@313b2eec
+
+2020-06-21 16:11:36
+[DEBUG]-[Thread: XNIO-1 I/O-4]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-4', selector sun.nio.ch.WindowsSelectorImpl@c26a99c
+
+2020-06-21 16:11:36
+[DEBUG]-[Thread: XNIO-1 I/O-2]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-2', selector sun.nio.ch.WindowsSelectorImpl@4f5638e7
+
+2020-06-21 16:11:36
+[DEBUG]-[Thread: XNIO-1 I/O-11]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-11', selector sun.nio.ch.WindowsSelectorImpl@3f58a6fa
+
+2020-06-21 16:11:36
+[DEBUG]-[Thread: XNIO-1 I/O-12]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-12', selector sun.nio.ch.WindowsSelectorImpl@6214fcf7
+
+2020-06-21 16:11:36
+[DEBUG]-[Thread: XNIO-1 I/O-10]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-10', selector sun.nio.ch.WindowsSelectorImpl@16852c2b
+
+2020-06-21 16:11:36
+[DEBUG]-[Thread: XNIO-1 Accept]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 Accept', selector sun.nio.ch.WindowsSelectorImpl@4483c34f
+
+2020-06-21 16:11:36
+[DEBUG]-[Thread: XNIO-1 I/O-7]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-7', selector sun.nio.ch.WindowsSelectorImpl@4bb6cd2a
+
+2020-06-21 16:11:36
+[DEBUG]-[Thread: XNIO-1 I/O-8]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-8', selector sun.nio.ch.WindowsSelectorImpl@78a18797
+
+2020-06-21 16:11:36
+[DEBUG]-[Thread: XNIO-1 I/O-6]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-6', selector sun.nio.ch.WindowsSelectorImpl@41313b5
+
+2020-06-21 16:11:36
+[DEBUG]-[Thread: XNIO-1 I/O-5]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-5', selector sun.nio.ch.WindowsSelectorImpl@7c9e89e7
+
+2020-06-21 16:11:36
+[DEBUG]-[Thread: XNIO-1 I/O-9]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-9', selector sun.nio.ch.WindowsSelectorImpl@2a37188e
+
+2020-06-21 16:11:36
+[DEBUG]-[Thread: main]-[io.undertow.Undertow.start()]: Configuring listener with protocol HTTP for interface 0.0.0.0 and port 80
+
+2020-06-21 16:11:41
+[DEBUG]-[Thread: XNIO-1 I/O-6]-[io.undertow.util.PathMatcher.match()]: Matched default handler path /user/index
+
+2020-06-21 16:11:41
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authenticate()]: Attempting to authenticate /user/index, authentication required: false
+
+2020-06-21 16:11:41
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl$AuthAttempter.transition()]: Authentication outcome was NOT_ATTEMPTED with method io.undertow.security.impl.CachedAuthenticatedSessionMechanism@19e2fc56 for /user/index
+
+2020-06-21 16:11:41
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authTransition()]: Authentication result was ATTEMPTED for /user/index
+
+2020-06-21 16:12:11
+[DEBUG]-[Thread: main]-[io.undertow.UndertowLogger.<clinit>()]: Logging Provider: org.jboss.logging.Log4jLoggerProvider
+
+2020-06-21 16:12:11
+[DEBUG]-[Thread: main]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting default session timeout to 1800
+
+2020-06-21 16:12:11
+[DEBUG]-[Thread: main]-[io.undertow.server.session.InMemorySessionManager.registerSessionListener()]: Registered session listener io.undertow.servlet.core.SessionListenerBridge@6e3c1e69
+
+2020-06-21 16:12:12
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2020-06-21 16:12:12
+[INFO]-[Thread: main]-[io.undertow.Undertow.start()]: starting server: Undertow - 2.0.30.Final
+
+2020-06-21 16:12:12
+[INFO]-[Thread: main]-[org.xnio.Xnio.<clinit>()]: XNIO version 3.3.8.Final
+
+2020-06-21 16:12:12
+[INFO]-[Thread: main]-[org.xnio.nio.NioXnio.<clinit>()]: XNIO NIO Implementation Version 3.3.8.Final
+
+2020-06-21 16:12:12
+[DEBUG]-[Thread: XNIO-1 I/O-1]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-1', selector sun.nio.ch.WindowsSelectorImpl@a7b464c
+
+2020-06-21 16:12:12
+[DEBUG]-[Thread: XNIO-1 I/O-9]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-9', selector sun.nio.ch.WindowsSelectorImpl@78a18797
+
+2020-06-21 16:12:12
+[DEBUG]-[Thread: XNIO-1 I/O-3]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-3', selector sun.nio.ch.WindowsSelectorImpl@4f5638e7
+
+2020-06-21 16:12:12
+[DEBUG]-[Thread: XNIO-1 I/O-2]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-2', selector sun.nio.ch.WindowsSelectorImpl@4d09efa3
+
+2020-06-21 16:12:12
+[DEBUG]-[Thread: XNIO-1 I/O-10]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-10', selector sun.nio.ch.WindowsSelectorImpl@2a37188e
+
+2020-06-21 16:12:12
+[DEBUG]-[Thread: XNIO-1 I/O-11]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-11', selector sun.nio.ch.WindowsSelectorImpl@16852c2b
+
+2020-06-21 16:12:12
+[DEBUG]-[Thread: XNIO-1 Accept]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 Accept', selector sun.nio.ch.WindowsSelectorImpl@6214fcf7
+
+2020-06-21 16:12:12
+[DEBUG]-[Thread: XNIO-1 I/O-7]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-7', selector sun.nio.ch.WindowsSelectorImpl@41313b5
+
+2020-06-21 16:12:12
+[DEBUG]-[Thread: XNIO-1 I/O-5]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-5', selector sun.nio.ch.WindowsSelectorImpl@c26a99c
+
+2020-06-21 16:12:12
+[DEBUG]-[Thread: XNIO-1 I/O-8]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-8', selector sun.nio.ch.WindowsSelectorImpl@4bb6cd2a
+
+2020-06-21 16:12:12
+[DEBUG]-[Thread: XNIO-1 I/O-4]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-4', selector sun.nio.ch.WindowsSelectorImpl@313b2eec
+
+2020-06-21 16:12:12
+[DEBUG]-[Thread: XNIO-1 I/O-6]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-6', selector sun.nio.ch.WindowsSelectorImpl@7c9e89e7
+
+2020-06-21 16:12:12
+[DEBUG]-[Thread: XNIO-1 I/O-12]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-12', selector sun.nio.ch.WindowsSelectorImpl@3f58a6fa
+
+2020-06-21 16:12:12
+[DEBUG]-[Thread: main]-[io.undertow.Undertow.start()]: Configuring listener with protocol HTTP for interface 0.0.0.0 and port 80
+
+2020-06-21 16:12:24
+[DEBUG]-[Thread: main]-[io.undertow.UndertowLogger.<clinit>()]: Logging Provider: org.jboss.logging.Log4jLoggerProvider
+
+2020-06-21 16:12:24
+[DEBUG]-[Thread: main]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting default session timeout to 1800
+
+2020-06-21 16:12:24
+[DEBUG]-[Thread: main]-[io.undertow.server.session.InMemorySessionManager.registerSessionListener()]: Registered session listener io.undertow.servlet.core.SessionListenerBridge@357246de
+
+2020-06-21 16:12:24
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2020-06-21 16:12:25
+[INFO]-[Thread: main]-[io.undertow.Undertow.start()]: starting server: Undertow - 2.0.30.Final
+
+2020-06-21 16:12:25
+[INFO]-[Thread: main]-[org.xnio.Xnio.<clinit>()]: XNIO version 3.3.8.Final
+
+2020-06-21 16:12:25
+[INFO]-[Thread: main]-[org.xnio.nio.NioXnio.<clinit>()]: XNIO NIO Implementation Version 3.3.8.Final
+
+2020-06-21 16:12:25
+[DEBUG]-[Thread: XNIO-1 I/O-1]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-1', selector sun.nio.ch.WindowsSelectorImpl@75ff6ce
+
+2020-06-21 16:12:25
+[DEBUG]-[Thread: XNIO-1 I/O-3]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-3', selector sun.nio.ch.WindowsSelectorImpl@5c9b7a3
+
+2020-06-21 16:12:25
+[DEBUG]-[Thread: XNIO-1 I/O-12]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-12', selector sun.nio.ch.WindowsSelectorImpl@49561663
+
+2020-06-21 16:12:25
+[DEBUG]-[Thread: XNIO-1 I/O-11]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-11', selector sun.nio.ch.WindowsSelectorImpl@48adc7a4
+
+2020-06-21 16:12:25
+[DEBUG]-[Thread: XNIO-1 Accept]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 Accept', selector sun.nio.ch.WindowsSelectorImpl@4cb894c4
+
+2020-06-21 16:12:25
+[DEBUG]-[Thread: XNIO-1 I/O-7]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-7', selector sun.nio.ch.WindowsSelectorImpl@611816df
+
+2020-06-21 16:12:25
+[DEBUG]-[Thread: XNIO-1 I/O-6]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-6', selector sun.nio.ch.WindowsSelectorImpl@6a663016
+
+2020-06-21 16:12:25
+[DEBUG]-[Thread: XNIO-1 I/O-5]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-5', selector sun.nio.ch.WindowsSelectorImpl@5f0b4914
+
+2020-06-21 16:12:25
+[DEBUG]-[Thread: XNIO-1 I/O-8]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-8', selector sun.nio.ch.WindowsSelectorImpl@7132b291
+
+2020-06-21 16:12:25
+[DEBUG]-[Thread: XNIO-1 I/O-2]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-2', selector sun.nio.ch.WindowsSelectorImpl@7adeac22
+
+2020-06-21 16:12:25
+[DEBUG]-[Thread: main]-[io.undertow.Undertow.start()]: Configuring listener with protocol HTTP for interface 0.0.0.0 and port 80
+
+2020-06-21 16:12:25
+[DEBUG]-[Thread: XNIO-1 I/O-10]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-10', selector sun.nio.ch.WindowsSelectorImpl@3fe73f90
+
+2020-06-21 16:12:25
+[DEBUG]-[Thread: XNIO-1 I/O-9]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-9', selector sun.nio.ch.WindowsSelectorImpl@60e4ec14
+
+2020-06-21 16:12:25
+[DEBUG]-[Thread: XNIO-1 I/O-4]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-4', selector sun.nio.ch.WindowsSelectorImpl@3436c9b0
+
+2020-06-21 16:12:27
+[DEBUG]-[Thread: XNIO-1 I/O-6]-[io.undertow.util.PathMatcher.match()]: Matched default handler path /user/index
+
+2020-06-21 16:12:27
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authenticate()]: Attempting to authenticate /user/index, authentication required: false
+
+2020-06-21 16:12:27
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl$AuthAttempter.transition()]: Authentication outcome was NOT_ATTEMPTED with method io.undertow.security.impl.CachedAuthenticatedSessionMechanism@4773cdcb for /user/index
+
+2020-06-21 16:12:27
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authTransition()]: Authentication result was ATTEMPTED for /user/index
+
+2020-06-21 16:12:33
+[DEBUG]-[Thread: XNIO-1 I/O-6]-[io.undertow.util.PathMatcher.match()]: Matched default handler path /user/findById
+
+2020-06-21 16:12:33
+[DEBUG]-[Thread: XNIO-1 task-2]-[io.undertow.security.impl.SecurityContextImpl.authenticate()]: Attempting to authenticate /user/findById, authentication required: false
+
+2020-06-21 16:12:33
+[DEBUG]-[Thread: XNIO-1 task-2]-[io.undertow.security.impl.SecurityContextImpl$AuthAttempter.transition()]: Authentication outcome was NOT_ATTEMPTED with method io.undertow.security.impl.CachedAuthenticatedSessionMechanism@4773cdcb for /user/findById
+
+2020-06-21 16:12:33
+[DEBUG]-[Thread: XNIO-1 task-2]-[io.undertow.security.impl.SecurityContextImpl.authTransition()]: Authentication result was ATTEMPTED for /user/findById
+
+2020-06-21 16:13:27
+[DEBUG]-[Thread: XNIO-1 I/O-5]-[io.undertow.server.protocol.ParseTimeoutUpdater.run()]: Timing out idle connection from /0:0:0:0:0:0:0:1:6472
+
+2020-06-21 16:13:34
+[DEBUG]-[Thread: XNIO-1 I/O-6]-[io.undertow.server.protocol.ParseTimeoutUpdater.run()]: Timing out idle connection from /0:0:0:0:0:0:0:1:6471
+
+2020-06-21 16:14:04
+[DEBUG]-[Thread: XNIO-1 I/O-7]-[io.undertow.util.PathMatcher.match()]: Matched default handler path /user/findById
+
+2020-06-21 16:14:04
+[DEBUG]-[Thread: XNIO-1 task-3]-[io.undertow.security.impl.SecurityContextImpl.authenticate()]: Attempting to authenticate /user/findById, authentication required: false
+
+2020-06-21 16:14:04
+[DEBUG]-[Thread: XNIO-1 task-3]-[io.undertow.security.impl.SecurityContextImpl$AuthAttempter.transition()]: Authentication outcome was NOT_ATTEMPTED with method io.undertow.security.impl.CachedAuthenticatedSessionMechanism@4773cdcb for /user/findById
+
+2020-06-21 16:14:04
+[DEBUG]-[Thread: XNIO-1 task-3]-[io.undertow.security.impl.SecurityContextImpl.authTransition()]: Authentication result was ATTEMPTED for /user/findById
+
+2020-06-21 16:15:04
+[DEBUG]-[Thread: XNIO-1 I/O-6]-[io.undertow.server.protocol.ParseTimeoutUpdater.run()]: Timing out idle connection from /0:0:0:0:0:0:0:1:6507
+
+2020-06-21 16:15:05
+[DEBUG]-[Thread: XNIO-1 I/O-7]-[io.undertow.server.protocol.ParseTimeoutUpdater.run()]: Timing out idle connection from /0:0:0:0:0:0:0:1:6506
+
+2020-06-21 16:15:12
+[DEBUG]-[Thread: main]-[io.undertow.UndertowLogger.<clinit>()]: Logging Provider: org.jboss.logging.Log4jLoggerProvider
+
+2020-06-21 16:15:12
+[DEBUG]-[Thread: main]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting default session timeout to 1800
+
+2020-06-21 16:15:12
+[DEBUG]-[Thread: main]-[io.undertow.server.session.InMemorySessionManager.registerSessionListener()]: Registered session listener io.undertow.servlet.core.SessionListenerBridge@357246de
+
+2020-06-21 16:15:13
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2020-06-21 16:15:13
+[INFO]-[Thread: main]-[io.undertow.Undertow.start()]: starting server: Undertow - 2.0.30.Final
+
+2020-06-21 16:15:13
+[INFO]-[Thread: main]-[org.xnio.Xnio.<clinit>()]: XNIO version 3.3.8.Final
+
+2020-06-21 16:15:13
+[INFO]-[Thread: main]-[org.xnio.nio.NioXnio.<clinit>()]: XNIO NIO Implementation Version 3.3.8.Final
+
+2020-06-21 16:15:13
+[DEBUG]-[Thread: XNIO-1 I/O-1]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-1', selector sun.nio.ch.WindowsSelectorImpl@5a733de8
+
+2020-06-21 16:15:13
+[DEBUG]-[Thread: XNIO-1 I/O-4]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-4', selector sun.nio.ch.WindowsSelectorImpl@7adeac22
+
+2020-06-21 16:15:13
+[DEBUG]-[Thread: XNIO-1 I/O-3]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-3', selector sun.nio.ch.WindowsSelectorImpl@75ff6ce
+
+2020-06-21 16:15:13
+[DEBUG]-[Thread: XNIO-1 I/O-2]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-2', selector sun.nio.ch.WindowsSelectorImpl@6a239e43
+
+2020-06-21 16:15:13
+[DEBUG]-[Thread: XNIO-1 Accept]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 Accept', selector sun.nio.ch.WindowsSelectorImpl@48adc7a4
+
+2020-06-21 16:15:13
+[DEBUG]-[Thread: XNIO-1 I/O-12]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-12', selector sun.nio.ch.WindowsSelectorImpl@3fe73f90
+
+2020-06-21 16:15:13
+[DEBUG]-[Thread: XNIO-1 I/O-11]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-11', selector sun.nio.ch.WindowsSelectorImpl@60e4ec14
+
+2020-06-21 16:15:13
+[DEBUG]-[Thread: XNIO-1 I/O-10]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-10', selector sun.nio.ch.WindowsSelectorImpl@7132b291
+
+2020-06-21 16:15:13
+[DEBUG]-[Thread: XNIO-1 I/O-9]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-9', selector sun.nio.ch.WindowsSelectorImpl@611816df
+
+2020-06-21 16:15:13
+[DEBUG]-[Thread: XNIO-1 I/O-8]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-8', selector sun.nio.ch.WindowsSelectorImpl@6a663016
+
+2020-06-21 16:15:13
+[DEBUG]-[Thread: XNIO-1 I/O-7]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-7', selector sun.nio.ch.WindowsSelectorImpl@5f0b4914
+
+2020-06-21 16:15:13
+[DEBUG]-[Thread: XNIO-1 I/O-6]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-6', selector sun.nio.ch.WindowsSelectorImpl@3436c9b0
+
+2020-06-21 16:15:13
+[DEBUG]-[Thread: XNIO-1 I/O-5]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-5', selector sun.nio.ch.WindowsSelectorImpl@5c9b7a3
+
+2020-06-21 16:15:13
+[DEBUG]-[Thread: main]-[io.undertow.Undertow.start()]: Configuring listener with protocol HTTP for interface 0.0.0.0 and port 80
+
+2020-06-21 16:15:20
+[DEBUG]-[Thread: main]-[io.undertow.UndertowLogger.<clinit>()]: Logging Provider: org.jboss.logging.Log4jLoggerProvider
+
+2020-06-21 16:15:20
+[DEBUG]-[Thread: main]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting default session timeout to 1800
+
+2020-06-21 16:15:20
+[DEBUG]-[Thread: main]-[io.undertow.server.session.InMemorySessionManager.registerSessionListener()]: Registered session listener io.undertow.servlet.core.SessionListenerBridge@28c4711c
+
+2020-06-21 16:15:21
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2020-06-21 16:15:21
+[INFO]-[Thread: main]-[io.undertow.Undertow.start()]: starting server: Undertow - 2.0.30.Final
+
+2020-06-21 16:15:21
+[INFO]-[Thread: main]-[org.xnio.Xnio.<clinit>()]: XNIO version 3.3.8.Final
+
+2020-06-21 16:15:21
+[INFO]-[Thread: main]-[org.xnio.nio.NioXnio.<clinit>()]: XNIO NIO Implementation Version 3.3.8.Final
+
+2020-06-21 16:15:21
+[DEBUG]-[Thread: XNIO-1 I/O-1]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-1', selector sun.nio.ch.WindowsSelectorImpl@70d56ee2
+
+2020-06-21 16:15:21
+[DEBUG]-[Thread: XNIO-1 I/O-4]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-4', selector sun.nio.ch.WindowsSelectorImpl@714912a0
+
+2020-06-21 16:15:21
+[DEBUG]-[Thread: XNIO-1 I/O-3]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-3', selector sun.nio.ch.WindowsSelectorImpl@78c9fbca
+
+2020-06-21 16:15:21
+[DEBUG]-[Thread: XNIO-1 I/O-5]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-5', selector sun.nio.ch.WindowsSelectorImpl@338f1d61
+
+2020-06-21 16:15:21
+[DEBUG]-[Thread: XNIO-1 Accept]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 Accept', selector sun.nio.ch.WindowsSelectorImpl@6827e573
+
+2020-06-21 16:15:21
+[DEBUG]-[Thread: XNIO-1 I/O-2]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-2', selector sun.nio.ch.WindowsSelectorImpl@678d184c
+
+2020-06-21 16:15:21
+[DEBUG]-[Thread: XNIO-1 I/O-12]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-12', selector sun.nio.ch.WindowsSelectorImpl@3a4f6241
+
+2020-06-21 16:15:21
+[DEBUG]-[Thread: XNIO-1 I/O-10]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-10', selector sun.nio.ch.WindowsSelectorImpl@7441e4d9
+
+2020-06-21 16:15:21
+[DEBUG]-[Thread: main]-[io.undertow.Undertow.start()]: Configuring listener with protocol HTTP for interface 0.0.0.0 and port 80
+
+2020-06-21 16:15:21
+[DEBUG]-[Thread: XNIO-1 I/O-11]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-11', selector sun.nio.ch.WindowsSelectorImpl@42e807af
+
+2020-06-21 16:15:21
+[DEBUG]-[Thread: XNIO-1 I/O-7]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-7', selector sun.nio.ch.WindowsSelectorImpl@10141426
+
+2020-06-21 16:15:21
+[DEBUG]-[Thread: XNIO-1 I/O-6]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-6', selector sun.nio.ch.WindowsSelectorImpl@50c94f5b
+
+2020-06-21 16:15:21
+[DEBUG]-[Thread: XNIO-1 I/O-9]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-9', selector sun.nio.ch.WindowsSelectorImpl@51b5f7cc
+
+2020-06-21 16:15:21
+[DEBUG]-[Thread: XNIO-1 I/O-8]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-8', selector sun.nio.ch.WindowsSelectorImpl@3fde750
+
+2020-06-21 16:15:27
+[DEBUG]-[Thread: XNIO-1 I/O-5]-[io.undertow.util.PathMatcher.match()]: Matched default handler path /user/findById
+
+2020-06-21 16:15:27
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authenticate()]: Attempting to authenticate /user/findById, authentication required: false
+
+2020-06-21 16:15:27
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl$AuthAttempter.transition()]: Authentication outcome was NOT_ATTEMPTED with method io.undertow.security.impl.CachedAuthenticatedSessionMechanism@46309b9b for /user/findById
+
+2020-06-21 16:15:27
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authTransition()]: Authentication result was ATTEMPTED for /user/findById
+
+2020-06-21 16:15:36
+[DEBUG]-[Thread: XNIO-1 I/O-5]-[io.undertow.util.PathMatcher.match()]: Matched default handler path /user/findById
+
+2020-06-21 16:15:36
+[DEBUG]-[Thread: XNIO-1 task-2]-[io.undertow.security.impl.SecurityContextImpl.authenticate()]: Attempting to authenticate /user/findById, authentication required: false
+
+2020-06-21 16:15:36
+[DEBUG]-[Thread: XNIO-1 task-2]-[io.undertow.security.impl.SecurityContextImpl$AuthAttempter.transition()]: Authentication outcome was NOT_ATTEMPTED with method io.undertow.security.impl.CachedAuthenticatedSessionMechanism@46309b9b for /user/findById
+
+2020-06-21 16:15:36
+[DEBUG]-[Thread: XNIO-1 task-2]-[io.undertow.security.impl.SecurityContextImpl.authTransition()]: Authentication result was ATTEMPTED for /user/findById
+
+2020-06-21 16:17:38
+[DEBUG]-[Thread: XNIO-1 I/O-5]-[io.undertow.server.protocol.ParseTimeoutUpdater.run()]: Timing out idle connection from /0:0:0:0:0:0:0:1:6604
+
+2020-06-21 16:17:38
+[INFO]-[Thread: Thread-1]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2020-06-21 16:17:38
+[INFO]-[Thread: Thread-1]-[io.undertow.Undertow.stop()]: stopping server: Undertow - 2.0.30.Final
+
+2020-06-21 16:17:40
+[DEBUG]-[Thread: main]-[io.undertow.UndertowLogger.<clinit>()]: Logging Provider: org.jboss.logging.Log4jLoggerProvider
+
+2020-06-21 16:17:40
+[DEBUG]-[Thread: main]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting default session timeout to 1800
+
+2020-06-21 16:17:40
+[DEBUG]-[Thread: main]-[io.undertow.server.session.InMemorySessionManager.registerSessionListener()]: Registered session listener io.undertow.servlet.core.SessionListenerBridge@28c4711c
+
+2020-06-21 16:17:41
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2020-06-21 16:17:41
+[INFO]-[Thread: main]-[io.undertow.Undertow.start()]: starting server: Undertow - 2.0.30.Final
+
+2020-06-21 16:17:41
+[INFO]-[Thread: main]-[org.xnio.Xnio.<clinit>()]: XNIO version 3.3.8.Final
+
+2020-06-21 16:17:41
+[INFO]-[Thread: main]-[org.xnio.nio.NioXnio.<clinit>()]: XNIO NIO Implementation Version 3.3.8.Final
+
+2020-06-21 16:17:41
+[DEBUG]-[Thread: XNIO-1 I/O-1]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-1', selector sun.nio.ch.WindowsSelectorImpl@50c94f5b
+
+2020-06-21 16:17:41
+[DEBUG]-[Thread: XNIO-1 I/O-2]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-2', selector sun.nio.ch.WindowsSelectorImpl@10141426
+
+2020-06-21 16:17:41
+[DEBUG]-[Thread: XNIO-1 I/O-3]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-3', selector sun.nio.ch.WindowsSelectorImpl@3fde750
+
+2020-06-21 16:17:41
+[DEBUG]-[Thread: XNIO-1 I/O-4]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-4', selector sun.nio.ch.WindowsSelectorImpl@51b5f7cc
+
+2020-06-21 16:17:41
+[DEBUG]-[Thread: XNIO-1 I/O-8]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-8', selector sun.nio.ch.WindowsSelectorImpl@6ff382e2
+
+2020-06-21 16:17:41
+[DEBUG]-[Thread: XNIO-1 I/O-10]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-10', selector sun.nio.ch.WindowsSelectorImpl@49bca2d1
+
+2020-06-21 16:17:41
+[DEBUG]-[Thread: XNIO-1 I/O-11]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-11', selector sun.nio.ch.WindowsSelectorImpl@6b4ab428
+
+2020-06-21 16:17:41
+[DEBUG]-[Thread: XNIO-1 I/O-12]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-12', selector sun.nio.ch.WindowsSelectorImpl@7e6ff901
+
+2020-06-21 16:17:41
+[DEBUG]-[Thread: XNIO-1 Accept]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 Accept', selector sun.nio.ch.WindowsSelectorImpl@273a5be5
+
+2020-06-21 16:17:41
+[DEBUG]-[Thread: main]-[io.undertow.Undertow.start()]: Configuring listener with protocol HTTP for interface 0.0.0.0 and port 80
+
+2020-06-21 16:17:41
+[DEBUG]-[Thread: XNIO-1 I/O-5]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-5', selector sun.nio.ch.WindowsSelectorImpl@7a8615f9
+
+2020-06-21 16:17:41
+[DEBUG]-[Thread: XNIO-1 I/O-6]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-6', selector sun.nio.ch.WindowsSelectorImpl@4c2fe182
+
+2020-06-21 16:17:41
+[DEBUG]-[Thread: XNIO-1 I/O-7]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-7', selector sun.nio.ch.WindowsSelectorImpl@3a4f6241
+
+2020-06-21 16:17:41
+[DEBUG]-[Thread: XNIO-1 I/O-9]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-9', selector sun.nio.ch.WindowsSelectorImpl@6ac2c61e
+
+2020-06-21 16:17:45
+[DEBUG]-[Thread: XNIO-1 I/O-3]-[io.undertow.util.PathMatcher.match()]: Matched default handler path /user/findById
+
+2020-06-21 16:17:45
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authenticate()]: Attempting to authenticate /user/findById, authentication required: false
+
+2020-06-21 16:17:45
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl$AuthAttempter.transition()]: Authentication outcome was NOT_ATTEMPTED with method io.undertow.security.impl.CachedAuthenticatedSessionMechanism@390eeafe for /user/findById
+
+2020-06-21 16:17:45
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authTransition()]: Authentication result was ATTEMPTED for /user/findById
+
+2020-06-21 16:18:45
+[DEBUG]-[Thread: XNIO-1 I/O-3]-[io.undertow.server.protocol.ParseTimeoutUpdater.run()]: Timing out idle connection from /0:0:0:0:0:0:0:1:6678
+
+2020-06-21 17:05:38
+[INFO]-[Thread: Thread-1]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2020-06-21 17:05:38
+[INFO]-[Thread: Thread-1]-[io.undertow.Undertow.stop()]: stopping server: Undertow - 2.0.30.Final
+
+2020-06-21 17:07:28
+[DEBUG]-[Thread: main]-[io.undertow.UndertowLogger.<clinit>()]: Logging Provider: org.jboss.logging.Log4jLoggerProvider
+
+2020-06-21 17:07:28
+[DEBUG]-[Thread: main]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting default session timeout to 1800
+
+2020-06-21 17:07:28
+[DEBUG]-[Thread: main]-[io.undertow.server.session.InMemorySessionManager.registerSessionListener()]: Registered session listener io.undertow.servlet.core.SessionListenerBridge@28c4711c
+
+2020-06-21 17:07:29
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2020-06-21 17:07:29
+[INFO]-[Thread: main]-[io.undertow.Undertow.start()]: starting server: Undertow - 2.0.30.Final
+
+2020-06-21 17:07:29
+[INFO]-[Thread: main]-[org.xnio.Xnio.<clinit>()]: XNIO version 3.3.8.Final
+
+2020-06-21 17:07:29
+[INFO]-[Thread: main]-[org.xnio.nio.NioXnio.<clinit>()]: XNIO NIO Implementation Version 3.3.8.Final
+
+2020-06-21 17:07:29
+[DEBUG]-[Thread: XNIO-1 I/O-1]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-1', selector sun.nio.ch.WindowsSelectorImpl@534c9dcc
+
+2020-06-21 17:07:29
+[DEBUG]-[Thread: XNIO-1 I/O-3]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-3', selector sun.nio.ch.WindowsSelectorImpl@3210420
+
+2020-06-21 17:07:29
+[DEBUG]-[Thread: XNIO-1 I/O-2]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-2', selector sun.nio.ch.WindowsSelectorImpl@2a8be4f6
+
+2020-06-21 17:07:29
+[DEBUG]-[Thread: XNIO-1 I/O-8]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-8', selector sun.nio.ch.WindowsSelectorImpl@2ac50a30
+
+2020-06-21 17:07:29
+[DEBUG]-[Thread: XNIO-1 I/O-7]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-7', selector sun.nio.ch.WindowsSelectorImpl@7d13d121
+
+2020-06-21 17:07:29
+[DEBUG]-[Thread: XNIO-1 I/O-6]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-6', selector sun.nio.ch.WindowsSelectorImpl@7e129e88
+
+2020-06-21 17:07:29
+[DEBUG]-[Thread: XNIO-1 I/O-5]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-5', selector sun.nio.ch.WindowsSelectorImpl@5426e431
+
+2020-06-21 17:07:29
+[DEBUG]-[Thread: XNIO-1 I/O-4]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-4', selector sun.nio.ch.WindowsSelectorImpl@7ad152f7
+
+2020-06-21 17:07:29
+[DEBUG]-[Thread: XNIO-1 I/O-10]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-10', selector sun.nio.ch.WindowsSelectorImpl@7768490e
+
+2020-06-21 17:07:29
+[DEBUG]-[Thread: XNIO-1 I/O-12]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-12', selector sun.nio.ch.WindowsSelectorImpl@29de0738
+
+2020-06-21 17:07:29
+[DEBUG]-[Thread: XNIO-1 Accept]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 Accept', selector sun.nio.ch.WindowsSelectorImpl@7bde2596
+
+2020-06-21 17:07:29
+[DEBUG]-[Thread: main]-[io.undertow.Undertow.start()]: Configuring listener with protocol HTTP for interface 0.0.0.0 and port 80
+
+2020-06-21 17:07:29
+[DEBUG]-[Thread: XNIO-1 I/O-11]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-11', selector sun.nio.ch.WindowsSelectorImpl@70dce0cf
+
+2020-06-21 17:07:29
+[DEBUG]-[Thread: XNIO-1 I/O-9]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-9', selector sun.nio.ch.WindowsSelectorImpl@3eb82ffc
+
+2020-06-21 17:07:34
+[DEBUG]-[Thread: XNIO-1 I/O-11]-[io.undertow.util.PathMatcher.match()]: Matched default handler path /user/findById
+
+2020-06-21 17:07:34
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authenticate()]: Attempting to authenticate /user/findById, authentication required: false
+
+2020-06-21 17:07:34
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl$AuthAttempter.transition()]: Authentication outcome was NOT_ATTEMPTED with method io.undertow.security.impl.CachedAuthenticatedSessionMechanism@5110a5cc for /user/findById
+
+2020-06-21 17:07:34
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authTransition()]: Authentication result was ATTEMPTED for /user/findById
+
+2020-06-21 17:08:35
+[DEBUG]-[Thread: XNIO-1 I/O-11]-[io.undertow.server.protocol.ParseTimeoutUpdater.run()]: Timing out idle connection from /0:0:0:0:0:0:0:1:7714
+
+2020-06-21 17:40:18
+[INFO]-[Thread: Thread-1]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2020-06-21 17:40:18
+[INFO]-[Thread: Thread-1]-[io.undertow.Undertow.stop()]: stopping server: Undertow - 2.0.30.Final
+
+2020-06-21 17:40:20
+[DEBUG]-[Thread: main]-[io.undertow.UndertowLogger.<clinit>()]: Logging Provider: org.jboss.logging.Log4jLoggerProvider
+
+2020-06-21 17:40:20
+[DEBUG]-[Thread: main]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting default session timeout to 1800
+
+2020-06-21 17:40:20
+[DEBUG]-[Thread: main]-[io.undertow.server.session.InMemorySessionManager.registerSessionListener()]: Registered session listener io.undertow.servlet.core.SessionListenerBridge@28c4711c
+
+2020-06-21 17:40:21
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2020-06-21 17:40:21
+[INFO]-[Thread: main]-[io.undertow.Undertow.start()]: starting server: Undertow - 2.0.30.Final
+
+2020-06-21 17:40:21
+[INFO]-[Thread: main]-[org.xnio.Xnio.<clinit>()]: XNIO version 3.3.8.Final
+
+2020-06-21 17:40:21
+[INFO]-[Thread: main]-[org.xnio.nio.NioXnio.<clinit>()]: XNIO NIO Implementation Version 3.3.8.Final
+
+2020-06-21 17:40:21
+[DEBUG]-[Thread: XNIO-1 I/O-1]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-1', selector sun.nio.ch.WindowsSelectorImpl@5426e431
+
+2020-06-21 17:40:21
+[DEBUG]-[Thread: XNIO-1 I/O-2]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-2', selector sun.nio.ch.WindowsSelectorImpl@70d56ee2
+
+2020-06-21 17:40:21
+[DEBUG]-[Thread: XNIO-1 I/O-4]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-4', selector sun.nio.ch.WindowsSelectorImpl@694afb15
+
+2020-06-21 17:40:21
+[DEBUG]-[Thread: XNIO-1 I/O-3]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-3', selector sun.nio.ch.WindowsSelectorImpl@73d4212b
+
+2020-06-21 17:40:21
+[DEBUG]-[Thread: XNIO-1 I/O-9]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-9', selector sun.nio.ch.WindowsSelectorImpl@52296569
+
+2020-06-21 17:40:21
+[DEBUG]-[Thread: XNIO-1 I/O-10]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-10', selector sun.nio.ch.WindowsSelectorImpl@d3a195f
+
+2020-06-21 17:40:21
+[DEBUG]-[Thread: XNIO-1 Accept]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 Accept', selector sun.nio.ch.WindowsSelectorImpl@61e12c9
+
+2020-06-21 17:40:21
+[DEBUG]-[Thread: XNIO-1 I/O-8]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-8', selector sun.nio.ch.WindowsSelectorImpl@5e0eab32
+
+2020-06-21 17:40:21
+[DEBUG]-[Thread: XNIO-1 I/O-12]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-12', selector sun.nio.ch.WindowsSelectorImpl@273a5be5
+
+2020-06-21 17:40:21
+[DEBUG]-[Thread: main]-[io.undertow.Undertow.start()]: Configuring listener with protocol HTTP for interface 0.0.0.0 and port 80
+
+2020-06-21 17:40:21
+[DEBUG]-[Thread: XNIO-1 I/O-5]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-5', selector sun.nio.ch.WindowsSelectorImpl@78c9fbca
+
+2020-06-21 17:40:21
+[DEBUG]-[Thread: XNIO-1 I/O-11]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-11', selector sun.nio.ch.WindowsSelectorImpl@7e6ff901
+
+2020-06-21 17:40:21
+[DEBUG]-[Thread: XNIO-1 I/O-6]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-6', selector sun.nio.ch.WindowsSelectorImpl@7f8ef2f9
+
+2020-06-21 17:40:21
+[DEBUG]-[Thread: XNIO-1 I/O-7]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-7', selector sun.nio.ch.WindowsSelectorImpl@3d48e560
+
+2020-06-21 17:40:27
+[DEBUG]-[Thread: XNIO-1 I/O-1]-[io.undertow.util.PathMatcher.match()]: Matched default handler path /user/saveOrUpdate
+
+2020-06-21 17:40:27
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authenticate()]: Attempting to authenticate /user/saveOrUpdate, authentication required: false
+
+2020-06-21 17:40:27
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl$AuthAttempter.transition()]: Authentication outcome was NOT_ATTEMPTED with method io.undertow.security.impl.CachedAuthenticatedSessionMechanism@54ff7992 for /user/saveOrUpdate
+
+2020-06-21 17:40:27
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authTransition()]: Authentication result was ATTEMPTED for /user/saveOrUpdate
+
+2020-06-21 17:40:27
+[DEBUG]-[Thread: XNIO-1 task-1]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting error code 500 for exchange HttpServerExchange{ GET /user/saveOrUpdate}
+java.lang.RuntimeException
+	at io.undertow.server.HttpServerExchange.setStatusCode(HttpServerExchange.java:1410)
+	at io.undertow.servlet.spec.HttpServletResponseImpl.setStatus(HttpServletResponseImpl.java:324)
+	at com.jfinal.render.ErrorRender.render(ErrorRender.java:46)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:132)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:90)
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61)
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131)
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84)
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62)
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:68)
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36)
+	at io.undertow.servlet.handlers.RedirectDirHandler.handleRequest(RedirectDirHandler.java:68)
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:132)
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46)
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64)
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60)
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77)
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:269)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:133)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:130)
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48)
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:249)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:99)
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:376)
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:830)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2020-06-21 17:40:57
+[DEBUG]-[Thread: XNIO-1 I/O-1]-[io.undertow.util.PathMatcher.match()]: Matched default handler path /user/saveOrUpdate
+
+2020-06-21 17:40:57
+[DEBUG]-[Thread: XNIO-1 task-2]-[io.undertow.security.impl.SecurityContextImpl.authenticate()]: Attempting to authenticate /user/saveOrUpdate, authentication required: false
+
+2020-06-21 17:40:57
+[DEBUG]-[Thread: XNIO-1 task-2]-[io.undertow.security.impl.SecurityContextImpl$AuthAttempter.transition()]: Authentication outcome was NOT_ATTEMPTED with method io.undertow.security.impl.CachedAuthenticatedSessionMechanism@54ff7992 for /user/saveOrUpdate
+
+2020-06-21 17:40:57
+[DEBUG]-[Thread: XNIO-1 task-2]-[io.undertow.security.impl.SecurityContextImpl.authTransition()]: Authentication result was ATTEMPTED for /user/saveOrUpdate
+
+2020-06-21 17:40:57
+[DEBUG]-[Thread: XNIO-1 task-2]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting error code 500 for exchange HttpServerExchange{ GET /user/saveOrUpdate}
+java.lang.RuntimeException
+	at io.undertow.server.HttpServerExchange.setStatusCode(HttpServerExchange.java:1410)
+	at io.undertow.servlet.spec.HttpServletResponseImpl.setStatus(HttpServletResponseImpl.java:324)
+	at com.jfinal.render.ErrorRender.render(ErrorRender.java:46)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:132)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:90)
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61)
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131)
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84)
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62)
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:68)
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36)
+	at io.undertow.servlet.handlers.RedirectDirHandler.handleRequest(RedirectDirHandler.java:68)
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:132)
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46)
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64)
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60)
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77)
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:269)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:133)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:130)
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48)
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:249)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:99)
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:376)
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:830)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2020-06-21 17:41:38
+[INFO]-[Thread: Thread-1]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2020-06-21 17:41:38
+[INFO]-[Thread: Thread-1]-[io.undertow.Undertow.stop()]: stopping server: Undertow - 2.0.30.Final
+
+2020-06-21 17:41:40
+[DEBUG]-[Thread: main]-[io.undertow.UndertowLogger.<clinit>()]: Logging Provider: org.jboss.logging.Log4jLoggerProvider
+
+2020-06-21 17:41:40
+[DEBUG]-[Thread: main]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting default session timeout to 1800
+
+2020-06-21 17:41:40
+[DEBUG]-[Thread: main]-[io.undertow.server.session.InMemorySessionManager.registerSessionListener()]: Registered session listener io.undertow.servlet.core.SessionListenerBridge@28c4711c
+
+2020-06-21 17:41:40
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2020-06-21 17:41:40
+[INFO]-[Thread: main]-[io.undertow.Undertow.start()]: starting server: Undertow - 2.0.30.Final
+
+2020-06-21 17:41:40
+[INFO]-[Thread: main]-[org.xnio.Xnio.<clinit>()]: XNIO version 3.3.8.Final
+
+2020-06-21 17:41:40
+[INFO]-[Thread: main]-[org.xnio.nio.NioXnio.<clinit>()]: XNIO NIO Implementation Version 3.3.8.Final
+
+2020-06-21 17:41:41
+[DEBUG]-[Thread: XNIO-1 I/O-1]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-1', selector sun.nio.ch.WindowsSelectorImpl@70d56ee2
+
+2020-06-21 17:41:41
+[DEBUG]-[Thread: XNIO-1 I/O-2]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-2', selector sun.nio.ch.WindowsSelectorImpl@73d4212b
+
+2020-06-21 17:41:41
+[DEBUG]-[Thread: XNIO-1 I/O-3]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-3', selector sun.nio.ch.WindowsSelectorImpl@694afb15
+
+2020-06-21 17:41:41
+[DEBUG]-[Thread: XNIO-1 I/O-4]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-4', selector sun.nio.ch.WindowsSelectorImpl@78c9fbca
+
+2020-06-21 17:41:41
+[DEBUG]-[Thread: XNIO-1 I/O-8]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-8', selector sun.nio.ch.WindowsSelectorImpl@10141426
+
+2020-06-21 17:41:41
+[DEBUG]-[Thread: XNIO-1 I/O-12]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-12', selector sun.nio.ch.WindowsSelectorImpl@7f58b371
+
+2020-06-21 17:41:41
+[DEBUG]-[Thread: XNIO-1 I/O-6]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-6', selector sun.nio.ch.WindowsSelectorImpl@338f1d61
+
+2020-06-21 17:41:41
+[DEBUG]-[Thread: XNIO-1 I/O-11]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-11', selector sun.nio.ch.WindowsSelectorImpl@1a3034a8
+
+2020-06-21 17:41:41
+[DEBUG]-[Thread: XNIO-1 Accept]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 Accept', selector sun.nio.ch.WindowsSelectorImpl@54d40e06
+
+2020-06-21 17:41:41
+[DEBUG]-[Thread: main]-[io.undertow.Undertow.start()]: Configuring listener with protocol HTTP for interface 0.0.0.0 and port 80
+
+2020-06-21 17:41:41
+[DEBUG]-[Thread: XNIO-1 I/O-7]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-7', selector sun.nio.ch.WindowsSelectorImpl@50c94f5b
+
+2020-06-21 17:41:41
+[DEBUG]-[Thread: XNIO-1 I/O-9]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-9', selector sun.nio.ch.WindowsSelectorImpl@3fde750
+
+2020-06-21 17:41:41
+[DEBUG]-[Thread: XNIO-1 I/O-10]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-10', selector sun.nio.ch.WindowsSelectorImpl@5f72038a
+
+2020-06-21 17:41:41
+[DEBUG]-[Thread: XNIO-1 I/O-5]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-5', selector sun.nio.ch.WindowsSelectorImpl@714912a0
+
+2020-06-21 17:41:47
+[DEBUG]-[Thread: XNIO-1 I/O-4]-[io.undertow.util.PathMatcher.match()]: Matched default handler path /user/saveOrUpdate
+
+2020-06-21 17:41:47
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authenticate()]: Attempting to authenticate /user/saveOrUpdate, authentication required: false
+
+2020-06-21 17:41:47
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl$AuthAttempter.transition()]: Authentication outcome was NOT_ATTEMPTED with method io.undertow.security.impl.CachedAuthenticatedSessionMechanism@7e2bfbfe for /user/saveOrUpdate
+
+2020-06-21 17:41:47
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authTransition()]: Authentication result was ATTEMPTED for /user/saveOrUpdate
+
+2020-06-21 17:41:47
+[DEBUG]-[Thread: XNIO-1 task-1]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting error code 500 for exchange HttpServerExchange{ GET /user/saveOrUpdate}
+java.lang.RuntimeException
+	at io.undertow.server.HttpServerExchange.setStatusCode(HttpServerExchange.java:1410)
+	at io.undertow.servlet.spec.HttpServletResponseImpl.setStatus(HttpServletResponseImpl.java:324)
+	at com.jfinal.render.ErrorRender.render(ErrorRender.java:46)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:132)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:90)
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61)
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131)
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84)
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62)
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:68)
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36)
+	at io.undertow.servlet.handlers.RedirectDirHandler.handleRequest(RedirectDirHandler.java:68)
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:132)
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46)
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64)
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60)
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77)
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:269)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:133)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:130)
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48)
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:249)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:99)
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:376)
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:830)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2020-06-21 17:41:56
+[DEBUG]-[Thread: XNIO-1 I/O-4]-[io.undertow.util.PathMatcher.match()]: Matched default handler path /user/deleteById
+
+2020-06-21 17:41:56
+[DEBUG]-[Thread: XNIO-1 task-2]-[io.undertow.security.impl.SecurityContextImpl.authenticate()]: Attempting to authenticate /user/deleteById, authentication required: false
+
+2020-06-21 17:41:56
+[DEBUG]-[Thread: XNIO-1 task-2]-[io.undertow.security.impl.SecurityContextImpl$AuthAttempter.transition()]: Authentication outcome was NOT_ATTEMPTED with method io.undertow.security.impl.CachedAuthenticatedSessionMechanism@7e2bfbfe for /user/deleteById
+
+2020-06-21 17:41:56
+[DEBUG]-[Thread: XNIO-1 task-2]-[io.undertow.security.impl.SecurityContextImpl.authTransition()]: Authentication result was ATTEMPTED for /user/deleteById
+
+2020-06-21 17:41:56
+[DEBUG]-[Thread: XNIO-1 task-2]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting error code 500 for exchange HttpServerExchange{ GET /user/deleteById}
+java.lang.RuntimeException
+	at io.undertow.server.HttpServerExchange.setStatusCode(HttpServerExchange.java:1410)
+	at io.undertow.servlet.spec.HttpServletResponseImpl.setStatus(HttpServletResponseImpl.java:324)
+	at com.jfinal.render.ErrorRender.render(ErrorRender.java:46)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:132)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:90)
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61)
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131)
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84)
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62)
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:68)
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36)
+	at io.undertow.servlet.handlers.RedirectDirHandler.handleRequest(RedirectDirHandler.java:68)
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:132)
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46)
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64)
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60)
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77)
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:269)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:133)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:130)
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48)
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:249)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:99)
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:376)
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:830)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2020-06-21 17:42:03
+[DEBUG]-[Thread: XNIO-1 I/O-4]-[io.undertow.util.PathMatcher.match()]: Matched default handler path /user/findById
+
+2020-06-21 17:42:03
+[DEBUG]-[Thread: XNIO-1 task-3]-[io.undertow.security.impl.SecurityContextImpl.authenticate()]: Attempting to authenticate /user/findById, authentication required: false
+
+2020-06-21 17:42:03
+[DEBUG]-[Thread: XNIO-1 task-3]-[io.undertow.security.impl.SecurityContextImpl$AuthAttempter.transition()]: Authentication outcome was NOT_ATTEMPTED with method io.undertow.security.impl.CachedAuthenticatedSessionMechanism@7e2bfbfe for /user/findById
+
+2020-06-21 17:42:03
+[DEBUG]-[Thread: XNIO-1 task-3]-[io.undertow.security.impl.SecurityContextImpl.authTransition()]: Authentication result was ATTEMPTED for /user/findById
+
+2020-06-21 17:43:03
+[DEBUG]-[Thread: XNIO-1 I/O-1]-[io.undertow.server.protocol.ParseTimeoutUpdater.run()]: Timing out idle connection from /0:0:0:0:0:0:0:1:8264
+
+2020-06-21 17:43:03
+[DEBUG]-[Thread: XNIO-1 I/O-4]-[io.undertow.server.protocol.ParseTimeoutUpdater.run()]: Timing out idle connection from /0:0:0:0:0:0:0:1:8261
+
+2020-06-21 17:44:20
+[DEBUG]-[Thread: XNIO-1 I/O-11]-[io.undertow.util.PathMatcher.match()]: Matched default handler path /user/saveOrUpdate
+
+2020-06-21 17:44:20
+[DEBUG]-[Thread: XNIO-1 task-4]-[io.undertow.security.impl.SecurityContextImpl.authenticate()]: Attempting to authenticate /user/saveOrUpdate, authentication required: false
+
+2020-06-21 17:44:20
+[DEBUG]-[Thread: XNIO-1 task-4]-[io.undertow.security.impl.SecurityContextImpl$AuthAttempter.transition()]: Authentication outcome was NOT_ATTEMPTED with method io.undertow.security.impl.CachedAuthenticatedSessionMechanism@7e2bfbfe for /user/saveOrUpdate
+
+2020-06-21 17:44:20
+[DEBUG]-[Thread: XNIO-1 task-4]-[io.undertow.security.impl.SecurityContextImpl.authTransition()]: Authentication result was ATTEMPTED for /user/saveOrUpdate
+
+2020-06-21 17:44:31
+[DEBUG]-[Thread: XNIO-1 task-4]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting error code 500 for exchange HttpServerExchange{ GET /user/saveOrUpdate}
+java.lang.RuntimeException
+	at io.undertow.server.HttpServerExchange.setStatusCode(HttpServerExchange.java:1410)
+	at io.undertow.servlet.spec.HttpServletResponseImpl.setStatus(HttpServletResponseImpl.java:324)
+	at com.jfinal.render.ErrorRender.render(ErrorRender.java:46)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:132)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:90)
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61)
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131)
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84)
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62)
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:68)
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36)
+	at io.undertow.servlet.handlers.RedirectDirHandler.handleRequest(RedirectDirHandler.java:68)
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:132)
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46)
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64)
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60)
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77)
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:269)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:133)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:130)
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48)
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:249)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:99)
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:376)
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:830)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2020-06-21 17:45:17
+[INFO]-[Thread: Thread-1]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2020-06-21 17:45:17
+[INFO]-[Thread: Thread-1]-[io.undertow.Undertow.stop()]: stopping server: Undertow - 2.0.30.Final
+
+2020-06-21 17:45:19
+[DEBUG]-[Thread: main]-[io.undertow.UndertowLogger.<clinit>()]: Logging Provider: org.jboss.logging.Log4jLoggerProvider
+
+2020-06-21 17:45:19
+[DEBUG]-[Thread: main]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting default session timeout to 1800
+
+2020-06-21 17:45:19
+[DEBUG]-[Thread: main]-[io.undertow.server.session.InMemorySessionManager.registerSessionListener()]: Registered session listener io.undertow.servlet.core.SessionListenerBridge@28c4711c
+
+2020-06-21 17:45:19
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2020-06-21 17:45:19
+[INFO]-[Thread: main]-[io.undertow.Undertow.start()]: starting server: Undertow - 2.0.30.Final
+
+2020-06-21 17:45:19
+[INFO]-[Thread: main]-[org.xnio.Xnio.<clinit>()]: XNIO version 3.3.8.Final
+
+2020-06-21 17:45:19
+[INFO]-[Thread: main]-[org.xnio.nio.NioXnio.<clinit>()]: XNIO NIO Implementation Version 3.3.8.Final
+
+2020-06-21 17:45:20
+[DEBUG]-[Thread: XNIO-1 I/O-1]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-1', selector sun.nio.ch.WindowsSelectorImpl@70d56ee2
+
+2020-06-21 17:45:20
+[DEBUG]-[Thread: XNIO-1 I/O-9]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-9', selector sun.nio.ch.WindowsSelectorImpl@3fde750
+
+2020-06-21 17:45:20
+[DEBUG]-[Thread: XNIO-1 I/O-7]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-7', selector sun.nio.ch.WindowsSelectorImpl@50c94f5b
+
+2020-06-21 17:45:20
+[DEBUG]-[Thread: XNIO-1 I/O-2]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-2', selector sun.nio.ch.WindowsSelectorImpl@73d4212b
+
+2020-06-21 17:45:20
+[DEBUG]-[Thread: XNIO-1 I/O-12]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-12', selector sun.nio.ch.WindowsSelectorImpl@10f4e4f7
+
+2020-06-21 17:45:20
+[DEBUG]-[Thread: XNIO-1 Accept]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 Accept', selector sun.nio.ch.WindowsSelectorImpl@357f9bd0
+
+2020-06-21 17:45:20
+[DEBUG]-[Thread: XNIO-1 I/O-11]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-11', selector sun.nio.ch.WindowsSelectorImpl@7441e4d9
+
+2020-06-21 17:45:20
+[DEBUG]-[Thread: XNIO-1 I/O-5]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-5', selector sun.nio.ch.WindowsSelectorImpl@7f8ef2f9
+
+2020-06-21 17:45:20
+[DEBUG]-[Thread: XNIO-1 I/O-3]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-3', selector sun.nio.ch.WindowsSelectorImpl@678d184c
+
+2020-06-21 17:45:20
+[DEBUG]-[Thread: XNIO-1 I/O-6]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-6', selector sun.nio.ch.WindowsSelectorImpl@3d48e560
+
+2020-06-21 17:45:20
+[DEBUG]-[Thread: XNIO-1 I/O-10]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-10', selector sun.nio.ch.WindowsSelectorImpl@51b5f7cc
+
+2020-06-21 17:45:20
+[DEBUG]-[Thread: XNIO-1 I/O-8]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-8', selector sun.nio.ch.WindowsSelectorImpl@10141426
+
+2020-06-21 17:45:20
+[DEBUG]-[Thread: main]-[io.undertow.Undertow.start()]: Configuring listener with protocol HTTP for interface 0.0.0.0 and port 80
+
+2020-06-21 17:45:20
+[DEBUG]-[Thread: XNIO-1 I/O-4]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-4', selector sun.nio.ch.WindowsSelectorImpl@760e1aa3
+
+2020-06-21 17:45:23
+[DEBUG]-[Thread: XNIO-1 I/O-2]-[io.undertow.util.PathMatcher.match()]: Matched default handler path /user/saveOrUpdate
+
+2020-06-21 17:45:23
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authenticate()]: Attempting to authenticate /user/saveOrUpdate, authentication required: false
+
+2020-06-21 17:45:23
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl$AuthAttempter.transition()]: Authentication outcome was NOT_ATTEMPTED with method io.undertow.security.impl.CachedAuthenticatedSessionMechanism@3900bc55 for /user/saveOrUpdate
+
+2020-06-21 17:45:23
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authTransition()]: Authentication result was ATTEMPTED for /user/saveOrUpdate
+
+2020-06-21 17:45:23
+[DEBUG]-[Thread: XNIO-1 task-1]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting error code 500 for exchange HttpServerExchange{ GET /user/saveOrUpdate}
+java.lang.RuntimeException
+	at io.undertow.server.HttpServerExchange.setStatusCode(HttpServerExchange.java:1410)
+	at io.undertow.servlet.spec.HttpServletResponseImpl.setStatus(HttpServletResponseImpl.java:324)
+	at com.jfinal.render.ErrorRender.render(ErrorRender.java:46)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:132)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:90)
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61)
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131)
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84)
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62)
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:68)
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36)
+	at io.undertow.servlet.handlers.RedirectDirHandler.handleRequest(RedirectDirHandler.java:68)
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:132)
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46)
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64)
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60)
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77)
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:269)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:133)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:130)
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48)
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:249)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:99)
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:376)
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:830)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2020-06-21 17:46:11
+[INFO]-[Thread: Thread-1]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2020-06-21 17:46:11
+[INFO]-[Thread: Thread-1]-[io.undertow.Undertow.stop()]: stopping server: Undertow - 2.0.30.Final
+
+2020-06-21 17:46:13
+[DEBUG]-[Thread: main]-[io.undertow.UndertowLogger.<clinit>()]: Logging Provider: org.jboss.logging.Log4jLoggerProvider
+
+2020-06-21 17:46:13
+[DEBUG]-[Thread: main]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting default session timeout to 1800
+
+2020-06-21 17:46:13
+[DEBUG]-[Thread: main]-[io.undertow.server.session.InMemorySessionManager.registerSessionListener()]: Registered session listener io.undertow.servlet.core.SessionListenerBridge@28c4711c
+
+2020-06-21 17:46:14
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2020-06-21 17:46:14
+[INFO]-[Thread: main]-[io.undertow.Undertow.start()]: starting server: Undertow - 2.0.30.Final
+
+2020-06-21 17:46:14
+[INFO]-[Thread: main]-[org.xnio.Xnio.<clinit>()]: XNIO version 3.3.8.Final
+
+2020-06-21 17:46:14
+[INFO]-[Thread: main]-[org.xnio.nio.NioXnio.<clinit>()]: XNIO NIO Implementation Version 3.3.8.Final
+
+2020-06-21 17:46:14
+[DEBUG]-[Thread: XNIO-1 I/O-1]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-1', selector sun.nio.ch.WindowsSelectorImpl@7416b205
+
+2020-06-21 17:46:14
+[DEBUG]-[Thread: XNIO-1 I/O-6]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-6', selector sun.nio.ch.WindowsSelectorImpl@78c9fbca
+
+2020-06-21 17:46:14
+[DEBUG]-[Thread: XNIO-1 I/O-10]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-10', selector sun.nio.ch.WindowsSelectorImpl@10141426
+
+2020-06-21 17:46:14
+[DEBUG]-[Thread: XNIO-1 I/O-5]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-5', selector sun.nio.ch.WindowsSelectorImpl@694afb15
+
+2020-06-21 17:46:14
+[DEBUG]-[Thread: XNIO-1 Accept]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 Accept', selector sun.nio.ch.WindowsSelectorImpl@1a3034a8
+
+2020-06-21 17:46:14
+[DEBUG]-[Thread: XNIO-1 I/O-12]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-12', selector sun.nio.ch.WindowsSelectorImpl@5f72038a
+
+2020-06-21 17:46:14
+[DEBUG]-[Thread: XNIO-1 I/O-3]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-3', selector sun.nio.ch.WindowsSelectorImpl@7e129e88
+
+2020-06-21 17:46:14
+[DEBUG]-[Thread: XNIO-1 I/O-11]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-11', selector sun.nio.ch.WindowsSelectorImpl@d3a195f
+
+2020-06-21 17:46:14
+[DEBUG]-[Thread: XNIO-1 I/O-9]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-9', selector sun.nio.ch.WindowsSelectorImpl@50c94f5b
+
+2020-06-21 17:46:14
+[DEBUG]-[Thread: XNIO-1 I/O-2]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-2', selector sun.nio.ch.WindowsSelectorImpl@5426e431
+
+2020-06-21 17:46:14
+[DEBUG]-[Thread: XNIO-1 I/O-7]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-7', selector sun.nio.ch.WindowsSelectorImpl@714912a0
+
+2020-06-21 17:46:14
+[DEBUG]-[Thread: XNIO-1 I/O-8]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-8', selector sun.nio.ch.WindowsSelectorImpl@338f1d61
+
+2020-06-21 17:46:14
+[DEBUG]-[Thread: XNIO-1 I/O-4]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-4', selector sun.nio.ch.WindowsSelectorImpl@73d4212b
+
+2020-06-21 17:46:14
+[DEBUG]-[Thread: main]-[io.undertow.Undertow.start()]: Configuring listener with protocol HTTP for interface 0.0.0.0 and port 80
+
+2020-06-21 17:46:18
+[DEBUG]-[Thread: XNIO-1 I/O-3]-[io.undertow.util.PathMatcher.match()]: Matched default handler path /user/saveOrUpdate
+
+2020-06-21 17:46:18
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authenticate()]: Attempting to authenticate /user/saveOrUpdate, authentication required: false
+
+2020-06-21 17:46:18
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl$AuthAttempter.transition()]: Authentication outcome was NOT_ATTEMPTED with method io.undertow.security.impl.CachedAuthenticatedSessionMechanism@86bff4 for /user/saveOrUpdate
+
+2020-06-21 17:46:18
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authTransition()]: Authentication result was ATTEMPTED for /user/saveOrUpdate
+
+2020-06-21 17:46:18
+[DEBUG]-[Thread: XNIO-1 task-1]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting error code 500 for exchange HttpServerExchange{ GET /user/saveOrUpdate}
+java.lang.RuntimeException
+	at io.undertow.server.HttpServerExchange.setStatusCode(HttpServerExchange.java:1410)
+	at io.undertow.servlet.spec.HttpServletResponseImpl.setStatus(HttpServletResponseImpl.java:324)
+	at com.jfinal.render.ErrorRender.render(ErrorRender.java:46)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:132)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:90)
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61)
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131)
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84)
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62)
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:68)
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36)
+	at io.undertow.servlet.handlers.RedirectDirHandler.handleRequest(RedirectDirHandler.java:68)
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:132)
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46)
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64)
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60)
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77)
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:269)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:133)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:130)
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48)
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:249)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:99)
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:376)
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:830)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2020-06-21 17:46:30
+[INFO]-[Thread: Thread-1]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2020-06-21 17:46:30
+[INFO]-[Thread: Thread-1]-[io.undertow.Undertow.stop()]: stopping server: Undertow - 2.0.30.Final
+
+2020-06-21 17:46:31
+[DEBUG]-[Thread: main]-[io.undertow.UndertowLogger.<clinit>()]: Logging Provider: org.jboss.logging.Log4jLoggerProvider
+
+2020-06-21 17:46:31
+[DEBUG]-[Thread: main]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting default session timeout to 1800
+
+2020-06-21 17:46:31
+[DEBUG]-[Thread: main]-[io.undertow.server.session.InMemorySessionManager.registerSessionListener()]: Registered session listener io.undertow.servlet.core.SessionListenerBridge@28c4711c
+
+2020-06-21 17:46:32
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2020-06-21 17:46:32
+[INFO]-[Thread: main]-[io.undertow.Undertow.start()]: starting server: Undertow - 2.0.30.Final
+
+2020-06-21 17:46:32
+[INFO]-[Thread: main]-[org.xnio.Xnio.<clinit>()]: XNIO version 3.3.8.Final
+
+2020-06-21 17:46:32
+[INFO]-[Thread: main]-[org.xnio.nio.NioXnio.<clinit>()]: XNIO NIO Implementation Version 3.3.8.Final
+
+2020-06-21 17:46:32
+[DEBUG]-[Thread: XNIO-1 I/O-1]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-1', selector sun.nio.ch.WindowsSelectorImpl@73d4212b
+
+2020-06-21 17:46:32
+[DEBUG]-[Thread: XNIO-1 I/O-5]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-5', selector sun.nio.ch.WindowsSelectorImpl@338f1d61
+
+2020-06-21 17:46:32
+[DEBUG]-[Thread: XNIO-1 I/O-3]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-3', selector sun.nio.ch.WindowsSelectorImpl@78c9fbca
+
+2020-06-21 17:46:32
+[DEBUG]-[Thread: XNIO-1 I/O-6]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-6', selector sun.nio.ch.WindowsSelectorImpl@50c94f5b
+
+2020-06-21 17:46:32
+[DEBUG]-[Thread: XNIO-1 I/O-12]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-12', selector sun.nio.ch.WindowsSelectorImpl@5a09adae
+
+2020-06-21 17:46:32
+[DEBUG]-[Thread: XNIO-1 Accept]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 Accept', selector sun.nio.ch.WindowsSelectorImpl@3857a7a8
+
+2020-06-21 17:46:32
+[DEBUG]-[Thread: XNIO-1 I/O-11]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-11', selector sun.nio.ch.WindowsSelectorImpl@4c2fe182
+
+2020-06-21 17:46:32
+[DEBUG]-[Thread: XNIO-1 I/O-4]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-4', selector sun.nio.ch.WindowsSelectorImpl@714912a0
+
+2020-06-21 17:46:32
+[DEBUG]-[Thread: XNIO-1 I/O-9]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-9', selector sun.nio.ch.WindowsSelectorImpl@51b5f7cc
+
+2020-06-21 17:46:32
+[DEBUG]-[Thread: XNIO-1 I/O-2]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-2', selector sun.nio.ch.WindowsSelectorImpl@694afb15
+
+2020-06-21 17:46:32
+[DEBUG]-[Thread: XNIO-1 I/O-7]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-7', selector sun.nio.ch.WindowsSelectorImpl@10141426
+
+2020-06-21 17:46:32
+[DEBUG]-[Thread: XNIO-1 I/O-8]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-8', selector sun.nio.ch.WindowsSelectorImpl@3fde750
+
+2020-06-21 17:46:32
+[DEBUG]-[Thread: main]-[io.undertow.Undertow.start()]: Configuring listener with protocol HTTP for interface 0.0.0.0 and port 80
+
+2020-06-21 17:46:32
+[DEBUG]-[Thread: XNIO-1 I/O-10]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-10', selector sun.nio.ch.WindowsSelectorImpl@7a8615f9
+
+2020-06-21 17:46:37
+[DEBUG]-[Thread: XNIO-1 I/O-9]-[io.undertow.util.PathMatcher.match()]: Matched default handler path /user/saveOrUpdate
+
+2020-06-21 17:46:37
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authenticate()]: Attempting to authenticate /user/saveOrUpdate, authentication required: false
+
+2020-06-21 17:46:37
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl$AuthAttempter.transition()]: Authentication outcome was NOT_ATTEMPTED with method io.undertow.security.impl.CachedAuthenticatedSessionMechanism@54ff7992 for /user/saveOrUpdate
+
+2020-06-21 17:46:37
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authTransition()]: Authentication result was ATTEMPTED for /user/saveOrUpdate
+
+2020-06-21 17:46:51
+[DEBUG]-[Thread: XNIO-1 task-1]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting error code 500 for exchange HttpServerExchange{ GET /user/saveOrUpdate}
+java.lang.RuntimeException
+	at io.undertow.server.HttpServerExchange.setStatusCode(HttpServerExchange.java:1410)
+	at io.undertow.servlet.spec.HttpServletResponseImpl.setStatus(HttpServletResponseImpl.java:324)
+	at com.jfinal.render.ErrorRender.render(ErrorRender.java:46)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:132)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:90)
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61)
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131)
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84)
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62)
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:68)
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36)
+	at io.undertow.servlet.handlers.RedirectDirHandler.handleRequest(RedirectDirHandler.java:68)
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:132)
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46)
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64)
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60)
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77)
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:269)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:133)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:130)
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48)
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:249)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:99)
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:376)
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:830)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2020-06-21 17:47:51
+[DEBUG]-[Thread: XNIO-1 I/O-9]-[io.undertow.server.protocol.ParseTimeoutUpdater.run()]: Timing out idle connection from /0:0:0:0:0:0:0:1:8448
+
+2020-06-21 17:47:51
+[DEBUG]-[Thread: XNIO-1 I/O-2]-[io.undertow.server.protocol.ParseTimeoutUpdater.run()]: Timing out idle connection from /0:0:0:0:0:0:0:1:8455
+
+2020-06-21 17:50:00
+[INFO]-[Thread: Thread-1]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2020-06-21 17:50:00
+[INFO]-[Thread: Thread-1]-[io.undertow.Undertow.stop()]: stopping server: Undertow - 2.0.30.Final
+
+2020-06-21 17:50:01
+[DEBUG]-[Thread: main]-[io.undertow.UndertowLogger.<clinit>()]: Logging Provider: org.jboss.logging.Log4jLoggerProvider
+
+2020-06-21 17:50:02
+[DEBUG]-[Thread: main]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting default session timeout to 1800
+
+2020-06-21 17:50:02
+[DEBUG]-[Thread: main]-[io.undertow.server.session.InMemorySessionManager.registerSessionListener()]: Registered session listener io.undertow.servlet.core.SessionListenerBridge@28c4711c
+
+2020-06-21 17:50:02
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2020-06-21 17:50:02
+[INFO]-[Thread: main]-[io.undertow.Undertow.start()]: starting server: Undertow - 2.0.30.Final
+
+2020-06-21 17:50:02
+[INFO]-[Thread: main]-[org.xnio.Xnio.<clinit>()]: XNIO version 3.3.8.Final
+
+2020-06-21 17:50:02
+[INFO]-[Thread: main]-[org.xnio.nio.NioXnio.<clinit>()]: XNIO NIO Implementation Version 3.3.8.Final
+
+2020-06-21 17:50:03
+[DEBUG]-[Thread: XNIO-1 I/O-1]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-1', selector sun.nio.ch.WindowsSelectorImpl@3210420
+
+2020-06-21 17:50:03
+[DEBUG]-[Thread: XNIO-1 I/O-3]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-3', selector sun.nio.ch.WindowsSelectorImpl@5426e431
+
+2020-06-21 17:50:03
+[DEBUG]-[Thread: XNIO-1 I/O-2]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-2', selector sun.nio.ch.WindowsSelectorImpl@7416b205
+
+2020-06-21 17:50:03
+[DEBUG]-[Thread: XNIO-1 I/O-11]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-11', selector sun.nio.ch.WindowsSelectorImpl@6ac2c61e
+
+2020-06-21 17:50:03
+[DEBUG]-[Thread: XNIO-1 I/O-10]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-10', selector sun.nio.ch.WindowsSelectorImpl@f268a27
+
+2020-06-21 17:50:03
+[DEBUG]-[Thread: XNIO-1 I/O-12]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-12', selector sun.nio.ch.WindowsSelectorImpl@49bca2d1
+
+2020-06-21 17:50:03
+[DEBUG]-[Thread: XNIO-1 Accept]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 Accept', selector sun.nio.ch.WindowsSelectorImpl@6b4ab428
+
+2020-06-21 17:50:03
+[DEBUG]-[Thread: XNIO-1 I/O-8]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-8', selector sun.nio.ch.WindowsSelectorImpl@5706e0aa
+
+2020-06-21 17:50:03
+[DEBUG]-[Thread: XNIO-1 I/O-7]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-7', selector sun.nio.ch.WindowsSelectorImpl@78c9fbca
+
+2020-06-21 17:50:03
+[DEBUG]-[Thread: XNIO-1 I/O-9]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-9', selector sun.nio.ch.WindowsSelectorImpl@f8bf7cb
+
+2020-06-21 17:50:03
+[DEBUG]-[Thread: main]-[io.undertow.Undertow.start()]: Configuring listener with protocol HTTP for interface 0.0.0.0 and port 80
+
+2020-06-21 17:50:03
+[DEBUG]-[Thread: XNIO-1 I/O-4]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-4', selector sun.nio.ch.WindowsSelectorImpl@70d56ee2
+
+2020-06-21 17:50:03
+[DEBUG]-[Thread: XNIO-1 I/O-5]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-5', selector sun.nio.ch.WindowsSelectorImpl@792c4a5b
+
+2020-06-21 17:50:03
+[DEBUG]-[Thread: XNIO-1 I/O-6]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-6', selector sun.nio.ch.WindowsSelectorImpl@678d184c
+
+2020-06-21 17:50:07
+[DEBUG]-[Thread: XNIO-1 I/O-1]-[io.undertow.util.PathMatcher.match()]: Matched default handler path /user/save
+
+2020-06-21 17:50:07
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authenticate()]: Attempting to authenticate /user/save, authentication required: false
+
+2020-06-21 17:50:07
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl$AuthAttempter.transition()]: Authentication outcome was NOT_ATTEMPTED with method io.undertow.security.impl.CachedAuthenticatedSessionMechanism@54ff7992 for /user/save
+
+2020-06-21 17:50:07
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authTransition()]: Authentication result was ATTEMPTED for /user/save
+
+2020-06-21 17:50:08
+[DEBUG]-[Thread: XNIO-1 task-1]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting error code 500 for exchange HttpServerExchange{ GET /user/save}
+java.lang.RuntimeException
+	at io.undertow.server.HttpServerExchange.setStatusCode(HttpServerExchange.java:1410)
+	at io.undertow.servlet.spec.HttpServletResponseImpl.setStatus(HttpServletResponseImpl.java:324)
+	at com.jfinal.render.ErrorRender.render(ErrorRender.java:46)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:132)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:90)
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61)
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131)
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84)
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62)
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:68)
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36)
+	at io.undertow.servlet.handlers.RedirectDirHandler.handleRequest(RedirectDirHandler.java:68)
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:132)
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46)
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64)
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60)
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77)
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:269)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:133)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:130)
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48)
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:249)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:99)
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:376)
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:830)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2020-06-21 17:50:46
+[INFO]-[Thread: Thread-1]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2020-06-21 17:50:46
+[INFO]-[Thread: Thread-1]-[io.undertow.Undertow.stop()]: stopping server: Undertow - 2.0.30.Final
+
+2020-06-21 17:50:48
+[DEBUG]-[Thread: main]-[io.undertow.UndertowLogger.<clinit>()]: Logging Provider: org.jboss.logging.Log4jLoggerProvider
+
+2020-06-21 17:50:48
+[DEBUG]-[Thread: main]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting default session timeout to 1800
+
+2020-06-21 17:50:48
+[DEBUG]-[Thread: main]-[io.undertow.server.session.InMemorySessionManager.registerSessionListener()]: Registered session listener io.undertow.servlet.core.SessionListenerBridge@28c4711c
+
+2020-06-21 17:50:49
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2020-06-21 17:50:49
+[INFO]-[Thread: main]-[io.undertow.Undertow.start()]: starting server: Undertow - 2.0.30.Final
+
+2020-06-21 17:50:49
+[INFO]-[Thread: main]-[org.xnio.Xnio.<clinit>()]: XNIO version 3.3.8.Final
+
+2020-06-21 17:50:49
+[INFO]-[Thread: main]-[org.xnio.nio.NioXnio.<clinit>()]: XNIO NIO Implementation Version 3.3.8.Final
+
+2020-06-21 17:50:49
+[DEBUG]-[Thread: XNIO-1 I/O-3]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-3', selector sun.nio.ch.WindowsSelectorImpl@7416b205
+
+2020-06-21 17:50:49
+[DEBUG]-[Thread: XNIO-1 I/O-5]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-5', selector sun.nio.ch.WindowsSelectorImpl@70d56ee2
+
+2020-06-21 17:50:49
+[DEBUG]-[Thread: XNIO-1 I/O-2]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-2', selector sun.nio.ch.WindowsSelectorImpl@3210420
+
+2020-06-21 17:50:49
+[DEBUG]-[Thread: XNIO-1 I/O-4]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-4', selector sun.nio.ch.WindowsSelectorImpl@5426e431
+
+2020-06-21 17:50:49
+[DEBUG]-[Thread: XNIO-1 I/O-1]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-1', selector sun.nio.ch.WindowsSelectorImpl@2a8be4f6
+
+2020-06-21 17:50:49
+[DEBUG]-[Thread: XNIO-1 I/O-11]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-11', selector sun.nio.ch.WindowsSelectorImpl@688b19ee
+
+2020-06-21 17:50:49
+[DEBUG]-[Thread: XNIO-1 I/O-12]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-12', selector sun.nio.ch.WindowsSelectorImpl@315e2a35
+
+2020-06-21 17:50:49
+[DEBUG]-[Thread: XNIO-1 Accept]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 Accept', selector sun.nio.ch.WindowsSelectorImpl@2c8fd9f0
+
+2020-06-21 17:50:49
+[DEBUG]-[Thread: XNIO-1 I/O-10]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-10', selector sun.nio.ch.WindowsSelectorImpl@62f7ff0e
+
+2020-06-21 17:50:49
+[DEBUG]-[Thread: main]-[io.undertow.Undertow.start()]: Configuring listener with protocol HTTP for interface 0.0.0.0 and port 80
+
+2020-06-21 17:50:49
+[DEBUG]-[Thread: XNIO-1 I/O-6]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-6', selector sun.nio.ch.WindowsSelectorImpl@7d13d121
+
+2020-06-21 17:50:49
+[DEBUG]-[Thread: XNIO-1 I/O-7]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-7', selector sun.nio.ch.WindowsSelectorImpl@694afb15
+
+2020-06-21 17:50:49
+[DEBUG]-[Thread: XNIO-1 I/O-8]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-8', selector sun.nio.ch.WindowsSelectorImpl@760e1aa3
+
+2020-06-21 17:50:49
+[DEBUG]-[Thread: XNIO-1 I/O-9]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-9', selector sun.nio.ch.WindowsSelectorImpl@714912a0
+
+2020-06-21 17:50:52
+[DEBUG]-[Thread: XNIO-1 I/O-2]-[io.undertow.util.PathMatcher.match()]: Matched default handler path /user/save
+
+2020-06-21 17:50:52
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authenticate()]: Attempting to authenticate /user/save, authentication required: false
+
+2020-06-21 17:50:52
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl$AuthAttempter.transition()]: Authentication outcome was NOT_ATTEMPTED with method io.undertow.security.impl.CachedAuthenticatedSessionMechanism@5d08f7ae for /user/save
+
+2020-06-21 17:50:52
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authTransition()]: Authentication result was ATTEMPTED for /user/save
+
+2020-06-21 17:50:52
+[DEBUG]-[Thread: XNIO-1 task-1]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting error code 500 for exchange HttpServerExchange{ GET /user/save}
+java.lang.RuntimeException
+	at io.undertow.server.HttpServerExchange.setStatusCode(HttpServerExchange.java:1410)
+	at io.undertow.servlet.spec.HttpServletResponseImpl.setStatus(HttpServletResponseImpl.java:324)
+	at com.jfinal.render.ErrorRender.render(ErrorRender.java:46)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:132)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:90)
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61)
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131)
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84)
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62)
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:68)
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36)
+	at io.undertow.servlet.handlers.RedirectDirHandler.handleRequest(RedirectDirHandler.java:68)
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:132)
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46)
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64)
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60)
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77)
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:269)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:133)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:130)
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48)
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:249)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:99)
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:376)
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:830)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2020-06-21 17:51:41
+[DEBUG]-[Thread: XNIO-1 I/O-2]-[io.undertow.util.PathMatcher.match()]: Matched default handler path /user/save
+
+2020-06-21 17:51:41
+[DEBUG]-[Thread: XNIO-1 task-2]-[io.undertow.security.impl.SecurityContextImpl.authenticate()]: Attempting to authenticate /user/save, authentication required: false
+
+2020-06-21 17:51:41
+[DEBUG]-[Thread: XNIO-1 task-2]-[io.undertow.security.impl.SecurityContextImpl$AuthAttempter.transition()]: Authentication outcome was NOT_ATTEMPTED with method io.undertow.security.impl.CachedAuthenticatedSessionMechanism@5d08f7ae for /user/save
+
+2020-06-21 17:51:41
+[DEBUG]-[Thread: XNIO-1 task-2]-[io.undertow.security.impl.SecurityContextImpl.authTransition()]: Authentication result was ATTEMPTED for /user/save
+
+2020-06-21 17:51:41
+[DEBUG]-[Thread: XNIO-1 task-2]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting error code 500 for exchange HttpServerExchange{ GET /user/save}
+java.lang.RuntimeException
+	at io.undertow.server.HttpServerExchange.setStatusCode(HttpServerExchange.java:1410)
+	at io.undertow.servlet.spec.HttpServletResponseImpl.setStatus(HttpServletResponseImpl.java:324)
+	at com.jfinal.render.ErrorRender.render(ErrorRender.java:46)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:132)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:90)
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61)
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131)
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84)
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62)
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:68)
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36)
+	at io.undertow.servlet.handlers.RedirectDirHandler.handleRequest(RedirectDirHandler.java:68)
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:132)
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46)
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64)
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60)
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77)
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:269)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:133)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:130)
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48)
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:249)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:99)
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:376)
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:830)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2020-06-21 17:51:47
+[INFO]-[Thread: Thread-1]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2020-06-21 17:51:47
+[INFO]-[Thread: Thread-1]-[io.undertow.Undertow.stop()]: stopping server: Undertow - 2.0.30.Final
+
+2020-06-21 17:51:49
+[DEBUG]-[Thread: main]-[io.undertow.UndertowLogger.<clinit>()]: Logging Provider: org.jboss.logging.Log4jLoggerProvider
+
+2020-06-21 17:51:49
+[DEBUG]-[Thread: main]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting default session timeout to 1800
+
+2020-06-21 17:51:49
+[DEBUG]-[Thread: main]-[io.undertow.server.session.InMemorySessionManager.registerSessionListener()]: Registered session listener io.undertow.servlet.core.SessionListenerBridge@28c4711c
+
+2020-06-21 17:51:49
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2020-06-21 17:51:49
+[INFO]-[Thread: main]-[io.undertow.Undertow.start()]: starting server: Undertow - 2.0.30.Final
+
+2020-06-21 17:51:49
+[INFO]-[Thread: main]-[org.xnio.Xnio.<clinit>()]: XNIO version 3.3.8.Final
+
+2020-06-21 17:51:49
+[INFO]-[Thread: main]-[org.xnio.nio.NioXnio.<clinit>()]: XNIO NIO Implementation Version 3.3.8.Final
+
+2020-06-21 17:51:50
+[DEBUG]-[Thread: XNIO-1 I/O-1]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-1', selector sun.nio.ch.WindowsSelectorImpl@2a8be4f6
+
+2020-06-21 17:51:50
+[DEBUG]-[Thread: XNIO-1 I/O-5]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-5', selector sun.nio.ch.WindowsSelectorImpl@70d56ee2
+
+2020-06-21 17:51:50
+[DEBUG]-[Thread: XNIO-1 I/O-4]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-4', selector sun.nio.ch.WindowsSelectorImpl@5426e431
+
+2020-06-21 17:51:50
+[DEBUG]-[Thread: XNIO-1 I/O-3]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-3', selector sun.nio.ch.WindowsSelectorImpl@7416b205
+
+2020-06-21 17:51:50
+[DEBUG]-[Thread: XNIO-1 I/O-2]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-2', selector sun.nio.ch.WindowsSelectorImpl@3210420
+
+2020-06-21 17:51:50
+[DEBUG]-[Thread: XNIO-1 I/O-11]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-11', selector sun.nio.ch.WindowsSelectorImpl@f68a52
+
+2020-06-21 17:51:50
+[DEBUG]-[Thread: XNIO-1 Accept]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 Accept', selector sun.nio.ch.WindowsSelectorImpl@23d709c2
+
+2020-06-21 17:51:50
+[DEBUG]-[Thread: XNIO-1 I/O-12]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-12', selector sun.nio.ch.WindowsSelectorImpl@37de851c
+
+2020-06-21 17:51:50
+[DEBUG]-[Thread: XNIO-1 I/O-10]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-10', selector sun.nio.ch.WindowsSelectorImpl@62f7ff0e
+
+2020-06-21 17:51:50
+[DEBUG]-[Thread: main]-[io.undertow.Undertow.start()]: Configuring listener with protocol HTTP for interface 0.0.0.0 and port 80
+
+2020-06-21 17:51:50
+[DEBUG]-[Thread: XNIO-1 I/O-6]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-6', selector sun.nio.ch.WindowsSelectorImpl@73d4212b
+
+2020-06-21 17:51:50
+[DEBUG]-[Thread: XNIO-1 I/O-7]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-7', selector sun.nio.ch.WindowsSelectorImpl@678d184c
+
+2020-06-21 17:51:50
+[DEBUG]-[Thread: XNIO-1 I/O-8]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-8', selector sun.nio.ch.WindowsSelectorImpl@7f8ef2f9
+
+2020-06-21 17:51:50
+[DEBUG]-[Thread: XNIO-1 I/O-9]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-9', selector sun.nio.ch.WindowsSelectorImpl@338f1d61
+
+2020-06-21 17:51:53
+[DEBUG]-[Thread: XNIO-1 I/O-2]-[io.undertow.util.PathMatcher.match()]: Matched default handler path /user/save
+
+2020-06-21 17:51:53
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authenticate()]: Attempting to authenticate /user/save, authentication required: false
+
+2020-06-21 17:51:53
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl$AuthAttempter.transition()]: Authentication outcome was NOT_ATTEMPTED with method io.undertow.security.impl.CachedAuthenticatedSessionMechanism@54ff7992 for /user/save
+
+2020-06-21 17:51:53
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authTransition()]: Authentication result was ATTEMPTED for /user/save
+
+2020-06-21 17:51:53
+[DEBUG]-[Thread: XNIO-1 task-1]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting error code 500 for exchange HttpServerExchange{ GET /user/save}
+java.lang.RuntimeException
+	at io.undertow.server.HttpServerExchange.setStatusCode(HttpServerExchange.java:1410)
+	at io.undertow.servlet.spec.HttpServletResponseImpl.setStatus(HttpServletResponseImpl.java:324)
+	at com.jfinal.render.ErrorRender.render(ErrorRender.java:46)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:132)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:90)
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61)
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131)
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84)
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62)
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:68)
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36)
+	at io.undertow.servlet.handlers.RedirectDirHandler.handleRequest(RedirectDirHandler.java:68)
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:132)
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46)
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64)
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60)
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77)
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:269)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:133)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:130)
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48)
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:249)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:99)
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:376)
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:830)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2020-06-21 17:52:26
+[DEBUG]-[Thread: XNIO-1 I/O-2]-[io.undertow.util.PathMatcher.match()]: Matched default handler path /user/save
+
+2020-06-21 17:52:26
+[DEBUG]-[Thread: XNIO-1 task-2]-[io.undertow.security.impl.SecurityContextImpl.authenticate()]: Attempting to authenticate /user/save, authentication required: false
+
+2020-06-21 17:52:26
+[DEBUG]-[Thread: XNIO-1 task-2]-[io.undertow.security.impl.SecurityContextImpl$AuthAttempter.transition()]: Authentication outcome was NOT_ATTEMPTED with method io.undertow.security.impl.CachedAuthenticatedSessionMechanism@54ff7992 for /user/save
+
+2020-06-21 17:52:26
+[DEBUG]-[Thread: XNIO-1 task-2]-[io.undertow.security.impl.SecurityContextImpl.authTransition()]: Authentication result was ATTEMPTED for /user/save
+
+2020-06-21 17:52:26
+[DEBUG]-[Thread: XNIO-1 task-2]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting error code 500 for exchange HttpServerExchange{ GET /user/save}
+java.lang.RuntimeException
+	at io.undertow.server.HttpServerExchange.setStatusCode(HttpServerExchange.java:1410)
+	at io.undertow.servlet.spec.HttpServletResponseImpl.setStatus(HttpServletResponseImpl.java:324)
+	at com.jfinal.render.ErrorRender.render(ErrorRender.java:46)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:132)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:90)
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61)
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131)
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84)
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62)
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:68)
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36)
+	at io.undertow.servlet.handlers.RedirectDirHandler.handleRequest(RedirectDirHandler.java:68)
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:132)
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46)
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64)
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60)
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77)
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:269)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:133)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:130)
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48)
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:249)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:99)
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:376)
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:830)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2020-06-21 17:52:33
+[INFO]-[Thread: Thread-1]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2020-06-21 17:52:33
+[INFO]-[Thread: Thread-1]-[io.undertow.Undertow.stop()]: stopping server: Undertow - 2.0.30.Final
+
+2020-06-21 17:52:35
+[DEBUG]-[Thread: main]-[io.undertow.UndertowLogger.<clinit>()]: Logging Provider: org.jboss.logging.Log4jLoggerProvider
+
+2020-06-21 17:52:35
+[DEBUG]-[Thread: main]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting default session timeout to 1800
+
+2020-06-21 17:52:35
+[DEBUG]-[Thread: main]-[io.undertow.server.session.InMemorySessionManager.registerSessionListener()]: Registered session listener io.undertow.servlet.core.SessionListenerBridge@28c4711c
+
+2020-06-21 17:52:36
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2020-06-21 17:52:36
+[INFO]-[Thread: main]-[io.undertow.Undertow.start()]: starting server: Undertow - 2.0.30.Final
+
+2020-06-21 17:52:36
+[INFO]-[Thread: main]-[org.xnio.Xnio.<clinit>()]: XNIO version 3.3.8.Final
+
+2020-06-21 17:52:36
+[INFO]-[Thread: main]-[org.xnio.nio.NioXnio.<clinit>()]: XNIO NIO Implementation Version 3.3.8.Final
+
+2020-06-21 17:52:36
+[DEBUG]-[Thread: XNIO-1 I/O-1]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-1', selector sun.nio.ch.WindowsSelectorImpl@3210420
+
+2020-06-21 17:52:36
+[DEBUG]-[Thread: XNIO-1 I/O-4]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-4', selector sun.nio.ch.WindowsSelectorImpl@70d56ee2
+
+2020-06-21 17:52:36
+[DEBUG]-[Thread: XNIO-1 I/O-3]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-3', selector sun.nio.ch.WindowsSelectorImpl@5426e431
+
+2020-06-21 17:52:36
+[DEBUG]-[Thread: XNIO-1 I/O-2]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-2', selector sun.nio.ch.WindowsSelectorImpl@7416b205
+
+2020-06-21 17:52:36
+[DEBUG]-[Thread: XNIO-1 I/O-12]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-12', selector sun.nio.ch.WindowsSelectorImpl@a423f29
+
+2020-06-21 17:52:36
+[DEBUG]-[Thread: XNIO-1 I/O-9]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-9', selector sun.nio.ch.WindowsSelectorImpl@37de851c
+
+2020-06-21 17:52:36
+[DEBUG]-[Thread: XNIO-1 I/O-10]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-10', selector sun.nio.ch.WindowsSelectorImpl@23d709c2
+
+2020-06-21 17:52:36
+[DEBUG]-[Thread: XNIO-1 I/O-11]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-11', selector sun.nio.ch.WindowsSelectorImpl@d87a751
+
+2020-06-21 17:52:36
+[DEBUG]-[Thread: XNIO-1 I/O-7]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-7', selector sun.nio.ch.WindowsSelectorImpl@ea67426
+
+2020-06-21 17:52:36
+[DEBUG]-[Thread: XNIO-1 Accept]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 Accept', selector sun.nio.ch.WindowsSelectorImpl@631c83e2
+
+2020-06-21 17:52:36
+[DEBUG]-[Thread: main]-[io.undertow.Undertow.start()]: Configuring listener with protocol HTTP for interface 0.0.0.0 and port 80
+
+2020-06-21 17:52:36
+[DEBUG]-[Thread: XNIO-1 I/O-5]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-5', selector sun.nio.ch.WindowsSelectorImpl@7d13d121
+
+2020-06-21 17:52:36
+[DEBUG]-[Thread: XNIO-1 I/O-6]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-6', selector sun.nio.ch.WindowsSelectorImpl@678d184c
+
+2020-06-21 17:52:36
+[DEBUG]-[Thread: XNIO-1 I/O-8]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-8', selector sun.nio.ch.WindowsSelectorImpl@f68a52
+
+2020-06-21 17:52:42
+[DEBUG]-[Thread: XNIO-1 I/O-3]-[io.undertow.util.PathMatcher.match()]: Matched default handler path /user/save
+
+2020-06-21 17:52:42
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authenticate()]: Attempting to authenticate /user/save, authentication required: false
+
+2020-06-21 17:52:42
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl$AuthAttempter.transition()]: Authentication outcome was NOT_ATTEMPTED with method io.undertow.security.impl.CachedAuthenticatedSessionMechanism@64a64163 for /user/save
+
+2020-06-21 17:52:42
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authTransition()]: Authentication result was ATTEMPTED for /user/save
+
+2020-06-21 17:52:42
+[DEBUG]-[Thread: XNIO-1 task-1]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting error code 500 for exchange HttpServerExchange{ GET /user/save}
+java.lang.RuntimeException
+	at io.undertow.server.HttpServerExchange.setStatusCode(HttpServerExchange.java:1410)
+	at io.undertow.servlet.spec.HttpServletResponseImpl.setStatus(HttpServletResponseImpl.java:324)
+	at com.jfinal.render.ErrorRender.render(ErrorRender.java:46)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:132)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:90)
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61)
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131)
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84)
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62)
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:68)
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36)
+	at io.undertow.servlet.handlers.RedirectDirHandler.handleRequest(RedirectDirHandler.java:68)
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:132)
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46)
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64)
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60)
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77)
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:269)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:133)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:130)
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48)
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:249)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:99)
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:376)
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:830)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2020-06-21 17:53:33
+[INFO]-[Thread: Thread-1]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2020-06-21 17:53:33
+[INFO]-[Thread: Thread-1]-[io.undertow.Undertow.stop()]: stopping server: Undertow - 2.0.30.Final
+
+2020-06-21 17:53:35
+[DEBUG]-[Thread: main]-[io.undertow.UndertowLogger.<clinit>()]: Logging Provider: org.jboss.logging.Log4jLoggerProvider
+
+2020-06-21 17:53:35
+[DEBUG]-[Thread: main]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting default session timeout to 1800
+
+2020-06-21 17:53:35
+[DEBUG]-[Thread: main]-[io.undertow.server.session.InMemorySessionManager.registerSessionListener()]: Registered session listener io.undertow.servlet.core.SessionListenerBridge@28c4711c
+
+2020-06-21 17:53:37
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2020-06-21 17:53:37
+[INFO]-[Thread: main]-[io.undertow.Undertow.start()]: starting server: Undertow - 2.0.30.Final
+
+2020-06-21 17:53:37
+[INFO]-[Thread: main]-[org.xnio.Xnio.<clinit>()]: XNIO version 3.3.8.Final
+
+2020-06-21 17:53:37
+[INFO]-[Thread: main]-[org.xnio.nio.NioXnio.<clinit>()]: XNIO NIO Implementation Version 3.3.8.Final
+
+2020-06-21 17:53:38
+[DEBUG]-[Thread: XNIO-1 I/O-1]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-1', selector sun.nio.ch.WindowsSelectorImpl@3210420
+
+2020-06-21 17:53:38
+[DEBUG]-[Thread: XNIO-1 I/O-4]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-4', selector sun.nio.ch.WindowsSelectorImpl@70d56ee2
+
+2020-06-21 17:53:38
+[DEBUG]-[Thread: XNIO-1 I/O-3]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-3', selector sun.nio.ch.WindowsSelectorImpl@5426e431
+
+2020-06-21 17:53:38
+[DEBUG]-[Thread: XNIO-1 I/O-5]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-5', selector sun.nio.ch.WindowsSelectorImpl@73d4212b
+
+2020-06-21 17:53:38
+[DEBUG]-[Thread: XNIO-1 Accept]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 Accept', selector sun.nio.ch.WindowsSelectorImpl@79036235
+
+2020-06-21 17:53:38
+[DEBUG]-[Thread: XNIO-1 I/O-12]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-12', selector sun.nio.ch.WindowsSelectorImpl@33aa662c
+
+2020-06-21 17:53:38
+[DEBUG]-[Thread: XNIO-1 I/O-11]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-11', selector sun.nio.ch.WindowsSelectorImpl@1ed3f854
+
+2020-06-21 17:53:38
+[DEBUG]-[Thread: XNIO-1 I/O-9]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-9', selector sun.nio.ch.WindowsSelectorImpl@3d48e560
+
+2020-06-21 17:53:38
+[DEBUG]-[Thread: XNIO-1 I/O-8]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-8', selector sun.nio.ch.WindowsSelectorImpl@7f8ef2f9
+
+2020-06-21 17:53:38
+[DEBUG]-[Thread: main]-[io.undertow.Undertow.start()]: Configuring listener with protocol HTTP for interface 0.0.0.0 and port 80
+
+2020-06-21 17:53:38
+[DEBUG]-[Thread: XNIO-1 I/O-6]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-6', selector sun.nio.ch.WindowsSelectorImpl@694afb15
+
+2020-06-21 17:53:38
+[DEBUG]-[Thread: XNIO-1 I/O-7]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-7', selector sun.nio.ch.WindowsSelectorImpl@78c9fbca
+
+2020-06-21 17:53:38
+[DEBUG]-[Thread: XNIO-1 I/O-2]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-2', selector sun.nio.ch.WindowsSelectorImpl@7416b205
+
+2020-06-21 17:53:38
+[DEBUG]-[Thread: XNIO-1 I/O-10]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-10', selector sun.nio.ch.WindowsSelectorImpl@5e0eab32
+
+2020-06-21 17:53:39
+[DEBUG]-[Thread: XNIO-1 I/O-2]-[io.undertow.util.PathMatcher.match()]: Matched default handler path /user/save
+
+2020-06-21 17:53:39
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authenticate()]: Attempting to authenticate /user/save, authentication required: false
+
+2020-06-21 17:53:39
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl$AuthAttempter.transition()]: Authentication outcome was NOT_ATTEMPTED with method io.undertow.security.impl.CachedAuthenticatedSessionMechanism@661ccf42 for /user/save
+
+2020-06-21 17:53:39
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authTransition()]: Authentication result was ATTEMPTED for /user/save
+
+2020-06-21 17:53:39
+[DEBUG]-[Thread: XNIO-1 task-1]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting error code 500 for exchange HttpServerExchange{ GET /user/save}
+java.lang.RuntimeException
+	at io.undertow.server.HttpServerExchange.setStatusCode(HttpServerExchange.java:1410)
+	at io.undertow.servlet.spec.HttpServletResponseImpl.setStatus(HttpServletResponseImpl.java:324)
+	at com.jfinal.render.ErrorRender.render(ErrorRender.java:46)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:132)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:90)
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61)
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131)
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84)
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62)
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:68)
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36)
+	at io.undertow.servlet.handlers.RedirectDirHandler.handleRequest(RedirectDirHandler.java:68)
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:132)
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46)
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64)
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60)
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77)
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:269)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:133)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:130)
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48)
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:249)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:99)
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:376)
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:830)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2020-06-21 17:54:08
+[INFO]-[Thread: Thread-1]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2020-06-21 17:54:08
+[INFO]-[Thread: Thread-1]-[io.undertow.Undertow.stop()]: stopping server: Undertow - 2.0.30.Final
+
+2020-06-21 17:54:09
+[DEBUG]-[Thread: main]-[io.undertow.UndertowLogger.<clinit>()]: Logging Provider: org.jboss.logging.Log4jLoggerProvider
+
+2020-06-21 17:54:09
+[DEBUG]-[Thread: main]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting default session timeout to 1800
+
+2020-06-21 17:54:09
+[DEBUG]-[Thread: main]-[io.undertow.server.session.InMemorySessionManager.registerSessionListener()]: Registered session listener io.undertow.servlet.core.SessionListenerBridge@28c4711c
+
+2020-06-21 17:54:10
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2020-06-21 17:54:10
+[INFO]-[Thread: main]-[io.undertow.Undertow.start()]: starting server: Undertow - 2.0.30.Final
+
+2020-06-21 17:54:10
+[INFO]-[Thread: main]-[org.xnio.Xnio.<clinit>()]: XNIO version 3.3.8.Final
+
+2020-06-21 17:54:10
+[INFO]-[Thread: main]-[org.xnio.nio.NioXnio.<clinit>()]: XNIO NIO Implementation Version 3.3.8.Final
+
+2020-06-21 17:54:10
+[DEBUG]-[Thread: XNIO-1 I/O-1]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-1', selector sun.nio.ch.WindowsSelectorImpl@5426e431
+
+2020-06-21 17:54:10
+[DEBUG]-[Thread: XNIO-1 I/O-4]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-4', selector sun.nio.ch.WindowsSelectorImpl@694afb15
+
+2020-06-21 17:54:10
+[DEBUG]-[Thread: XNIO-1 I/O-3]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-3', selector sun.nio.ch.WindowsSelectorImpl@73d4212b
+
+2020-06-21 17:54:10
+[DEBUG]-[Thread: XNIO-1 I/O-2]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-2', selector sun.nio.ch.WindowsSelectorImpl@70d56ee2
+
+2020-06-21 17:54:10
+[DEBUG]-[Thread: XNIO-1 I/O-9]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-9', selector sun.nio.ch.WindowsSelectorImpl@52296569
+
+2020-06-21 17:54:10
+[DEBUG]-[Thread: XNIO-1 Accept]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 Accept', selector sun.nio.ch.WindowsSelectorImpl@2e40109e
+
+2020-06-21 17:54:10
+[DEBUG]-[Thread: XNIO-1 I/O-11]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-11', selector sun.nio.ch.WindowsSelectorImpl@61e12c9
+
+2020-06-21 17:54:10
+[DEBUG]-[Thread: XNIO-1 I/O-12]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-12', selector sun.nio.ch.WindowsSelectorImpl@357f9bd0
+
+2020-06-21 17:54:10
+[DEBUG]-[Thread: XNIO-1 I/O-10]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-10', selector sun.nio.ch.WindowsSelectorImpl@7e6ff901
+
+2020-06-21 17:54:10
+[DEBUG]-[Thread: main]-[io.undertow.Undertow.start()]: Configuring listener with protocol HTTP for interface 0.0.0.0 and port 80
+
+2020-06-21 17:54:10
+[DEBUG]-[Thread: XNIO-1 I/O-7]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-7', selector sun.nio.ch.WindowsSelectorImpl@338f1d61
+
+2020-06-21 17:54:10
+[DEBUG]-[Thread: XNIO-1 I/O-8]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-8', selector sun.nio.ch.WindowsSelectorImpl@5e0eab32
+
+2020-06-21 17:54:10
+[DEBUG]-[Thread: XNIO-1 I/O-5]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-5', selector sun.nio.ch.WindowsSelectorImpl@723190ba
+
+2020-06-21 17:54:10
+[DEBUG]-[Thread: XNIO-1 I/O-6]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-6', selector sun.nio.ch.WindowsSelectorImpl@7f8ef2f9
+
+2020-06-21 17:54:15
+[DEBUG]-[Thread: XNIO-1 I/O-8]-[io.undertow.util.PathMatcher.match()]: Matched default handler path /user/save
+
+2020-06-21 17:54:15
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authenticate()]: Attempting to authenticate /user/save, authentication required: false
+
+2020-06-21 17:54:15
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl$AuthAttempter.transition()]: Authentication outcome was NOT_ATTEMPTED with method io.undertow.security.impl.CachedAuthenticatedSessionMechanism@86bff4 for /user/save
+
+2020-06-21 17:54:15
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authTransition()]: Authentication result was ATTEMPTED for /user/save
+
+2020-06-21 17:54:15
+[DEBUG]-[Thread: XNIO-1 task-1]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting error code 500 for exchange HttpServerExchange{ GET /user/save}
+java.lang.RuntimeException
+	at io.undertow.server.HttpServerExchange.setStatusCode(HttpServerExchange.java:1410)
+	at io.undertow.servlet.spec.HttpServletResponseImpl.setStatus(HttpServletResponseImpl.java:324)
+	at com.jfinal.render.ErrorRender.render(ErrorRender.java:46)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:132)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:90)
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61)
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131)
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84)
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62)
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:68)
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36)
+	at io.undertow.servlet.handlers.RedirectDirHandler.handleRequest(RedirectDirHandler.java:68)
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:132)
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46)
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64)
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60)
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77)
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:269)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:133)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:130)
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48)
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:249)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:99)
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:376)
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:830)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2020-06-21 17:55:15
+[DEBUG]-[Thread: XNIO-1 I/O-7]-[io.undertow.server.protocol.ParseTimeoutUpdater.run()]: Timing out idle connection from /0:0:0:0:0:0:0:1:8762
+
+2020-06-21 17:55:15
+[DEBUG]-[Thread: XNIO-1 I/O-8]-[io.undertow.server.protocol.ParseTimeoutUpdater.run()]: Timing out idle connection from /0:0:0:0:0:0:0:1:8761
+
+2020-06-21 17:56:31
+[INFO]-[Thread: Thread-1]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2020-06-21 17:56:31
+[INFO]-[Thread: Thread-1]-[io.undertow.Undertow.stop()]: stopping server: Undertow - 2.0.30.Final
+
+2020-06-21 17:56:33
+[DEBUG]-[Thread: main]-[io.undertow.UndertowLogger.<clinit>()]: Logging Provider: org.jboss.logging.Log4jLoggerProvider
+
+2020-06-21 17:56:33
+[DEBUG]-[Thread: main]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting default session timeout to 1800
+
+2020-06-21 17:56:33
+[DEBUG]-[Thread: main]-[io.undertow.server.session.InMemorySessionManager.registerSessionListener()]: Registered session listener io.undertow.servlet.core.SessionListenerBridge@28c4711c
+
+2020-06-21 17:56:34
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2020-06-21 17:56:34
+[INFO]-[Thread: main]-[io.undertow.Undertow.start()]: starting server: Undertow - 2.0.30.Final
+
+2020-06-21 17:56:34
+[INFO]-[Thread: main]-[org.xnio.Xnio.<clinit>()]: XNIO version 3.3.8.Final
+
+2020-06-21 17:56:34
+[INFO]-[Thread: main]-[org.xnio.nio.NioXnio.<clinit>()]: XNIO NIO Implementation Version 3.3.8.Final
+
+2020-06-21 17:56:34
+[DEBUG]-[Thread: XNIO-1 I/O-1]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-1', selector sun.nio.ch.WindowsSelectorImpl@5426e431
+
+2020-06-21 17:56:34
+[DEBUG]-[Thread: XNIO-1 I/O-4]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-4', selector sun.nio.ch.WindowsSelectorImpl@694afb15
+
+2020-06-21 17:56:34
+[DEBUG]-[Thread: XNIO-1 I/O-3]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-3', selector sun.nio.ch.WindowsSelectorImpl@73d4212b
+
+2020-06-21 17:56:34
+[DEBUG]-[Thread: XNIO-1 I/O-5]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-5', selector sun.nio.ch.WindowsSelectorImpl@78c9fbca
+
+2020-06-21 17:56:34
+[DEBUG]-[Thread: XNIO-1 Accept]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 Accept', selector sun.nio.ch.WindowsSelectorImpl@10f4e4f7
+
+2020-06-21 17:56:34
+[DEBUG]-[Thread: XNIO-1 I/O-12]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-12', selector sun.nio.ch.WindowsSelectorImpl@7441e4d9
+
+2020-06-21 17:56:34
+[DEBUG]-[Thread: XNIO-1 I/O-11]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-11', selector sun.nio.ch.WindowsSelectorImpl@5f72038a
+
+2020-06-21 17:56:34
+[DEBUG]-[Thread: XNIO-1 I/O-10]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-10', selector sun.nio.ch.WindowsSelectorImpl@d3a195f
+
+2020-06-21 17:56:34
+[DEBUG]-[Thread: main]-[io.undertow.Undertow.start()]: Configuring listener with protocol HTTP for interface 0.0.0.0 and port 80
+
+2020-06-21 17:56:34
+[DEBUG]-[Thread: XNIO-1 I/O-6]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-6', selector sun.nio.ch.WindowsSelectorImpl@714912a0
+
+2020-06-21 17:56:34
+[DEBUG]-[Thread: XNIO-1 I/O-2]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-2', selector sun.nio.ch.WindowsSelectorImpl@70d56ee2
+
+2020-06-21 17:56:34
+[DEBUG]-[Thread: XNIO-1 I/O-8]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-8', selector sun.nio.ch.WindowsSelectorImpl@50c94f5b
+
+2020-06-21 17:56:34
+[DEBUG]-[Thread: XNIO-1 I/O-9]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-9', selector sun.nio.ch.WindowsSelectorImpl@10141426
+
+2020-06-21 17:56:34
+[DEBUG]-[Thread: XNIO-1 I/O-7]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-7', selector sun.nio.ch.WindowsSelectorImpl@338f1d61
+
+2020-06-21 17:56:39
+[DEBUG]-[Thread: XNIO-1 I/O-1]-[io.undertow.util.PathMatcher.match()]: Matched default handler path /user/update
+
+2020-06-21 17:56:39
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authenticate()]: Attempting to authenticate /user/update, authentication required: false
+
+2020-06-21 17:56:39
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl$AuthAttempter.transition()]: Authentication outcome was NOT_ATTEMPTED with method io.undertow.security.impl.CachedAuthenticatedSessionMechanism@646fe657 for /user/update
+
+2020-06-21 17:56:39
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authTransition()]: Authentication result was ATTEMPTED for /user/update
+
+2020-06-21 17:56:39
+[DEBUG]-[Thread: XNIO-1 task-1]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting error code 500 for exchange HttpServerExchange{ GET /user/update}
+java.lang.RuntimeException
+	at io.undertow.server.HttpServerExchange.setStatusCode(HttpServerExchange.java:1410)
+	at io.undertow.servlet.spec.HttpServletResponseImpl.setStatus(HttpServletResponseImpl.java:324)
+	at com.jfinal.render.ErrorRender.render(ErrorRender.java:46)
+	at com.jfinal.core.ActionHandler.handle(ActionHandler.java:132)
+	at com.jfinal.core.JFinalFilter.doFilter(JFinalFilter.java:90)
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61)
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131)
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84)
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62)
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:68)
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36)
+	at io.undertow.servlet.handlers.RedirectDirHandler.handleRequest(RedirectDirHandler.java:68)
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:132)
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46)
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64)
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60)
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77)
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:269)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:133)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:130)
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48)
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:249)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:99)
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:376)
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:830)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2020-06-21 17:57:24
+[INFO]-[Thread: Thread-1]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2020-06-21 17:57:24
+[INFO]-[Thread: Thread-1]-[io.undertow.Undertow.stop()]: stopping server: Undertow - 2.0.30.Final
+
+2020-06-21 17:57:26
+[DEBUG]-[Thread: main]-[io.undertow.UndertowLogger.<clinit>()]: Logging Provider: org.jboss.logging.Log4jLoggerProvider
+
+2020-06-21 17:57:26
+[DEBUG]-[Thread: main]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting default session timeout to 1800
+
+2020-06-21 17:57:26
+[DEBUG]-[Thread: main]-[io.undertow.server.session.InMemorySessionManager.registerSessionListener()]: Registered session listener io.undertow.servlet.core.SessionListenerBridge@28c4711c
+
+2020-06-21 17:57:27
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2020-06-21 17:57:27
+[INFO]-[Thread: main]-[io.undertow.Undertow.start()]: starting server: Undertow - 2.0.30.Final
+
+2020-06-21 17:57:27
+[INFO]-[Thread: main]-[org.xnio.Xnio.<clinit>()]: XNIO version 3.3.8.Final
+
+2020-06-21 17:57:27
+[INFO]-[Thread: main]-[org.xnio.nio.NioXnio.<clinit>()]: XNIO NIO Implementation Version 3.3.8.Final
+
+2020-06-21 17:57:27
+[DEBUG]-[Thread: XNIO-1 I/O-2]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-2', selector sun.nio.ch.WindowsSelectorImpl@7416b205
+
+2020-06-21 17:57:27
+[DEBUG]-[Thread: XNIO-1 I/O-1]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-1', selector sun.nio.ch.WindowsSelectorImpl@3210420
+
+2020-06-21 17:57:27
+[DEBUG]-[Thread: XNIO-1 I/O-4]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-4', selector sun.nio.ch.WindowsSelectorImpl@70d56ee2
+
+2020-06-21 17:57:27
+[DEBUG]-[Thread: XNIO-1 I/O-3]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-3', selector sun.nio.ch.WindowsSelectorImpl@5426e431
+
+2020-06-21 17:57:27
+[DEBUG]-[Thread: XNIO-1 I/O-10]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-10', selector sun.nio.ch.WindowsSelectorImpl@62f7ff0e
+
+2020-06-21 17:57:27
+[DEBUG]-[Thread: XNIO-1 I/O-12]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-12', selector sun.nio.ch.WindowsSelectorImpl@2c8fd9f0
+
+2020-06-21 17:57:27
+[DEBUG]-[Thread: XNIO-1 I/O-11]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-11', selector sun.nio.ch.WindowsSelectorImpl@315e2a35
+
+2020-06-21 17:57:27
+[DEBUG]-[Thread: XNIO-1 Accept]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 Accept', selector sun.nio.ch.WindowsSelectorImpl@f8bf7cb
+
+2020-06-21 17:57:27
+[DEBUG]-[Thread: XNIO-1 I/O-5]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-5', selector sun.nio.ch.WindowsSelectorImpl@73d4212b
+
+2020-06-21 17:57:27
+[DEBUG]-[Thread: XNIO-1 I/O-9]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-9', selector sun.nio.ch.WindowsSelectorImpl@338f1d61
+
+2020-06-21 17:57:27
+[DEBUG]-[Thread: main]-[io.undertow.Undertow.start()]: Configuring listener with protocol HTTP for interface 0.0.0.0 and port 80
+
+2020-06-21 17:57:27
+[DEBUG]-[Thread: XNIO-1 I/O-6]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-6', selector sun.nio.ch.WindowsSelectorImpl@678d184c
+
+2020-06-21 17:57:27
+[DEBUG]-[Thread: XNIO-1 I/O-7]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-7', selector sun.nio.ch.WindowsSelectorImpl@760e1aa3
+
+2020-06-21 17:57:27
+[DEBUG]-[Thread: XNIO-1 I/O-8]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-8', selector sun.nio.ch.WindowsSelectorImpl@7f8ef2f9
+
+2020-06-21 17:57:30
+[DEBUG]-[Thread: XNIO-1 I/O-12]-[io.undertow.util.PathMatcher.match()]: Matched default handler path /user/update
+
+2020-06-21 17:57:30
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authenticate()]: Attempting to authenticate /user/update, authentication required: false
+
+2020-06-21 17:57:30
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl$AuthAttempter.transition()]: Authentication outcome was NOT_ATTEMPTED with method io.undertow.security.impl.CachedAuthenticatedSessionMechanism@3900bc55 for /user/update
+
+2020-06-21 17:57:30
+[DEBUG]-[Thread: XNIO-1 task-1]-[io.undertow.security.impl.SecurityContextImpl.authTransition()]: Authentication result was ATTEMPTED for /user/update
+
+2020-06-21 17:58:30
+[DEBUG]-[Thread: XNIO-1 I/O-12]-[io.undertow.server.protocol.ParseTimeoutUpdater.run()]: Timing out idle connection from /0:0:0:0:0:0:0:1:8889
+
+2020-06-21 23:04:59
+[INFO]-[Thread: Thread-1]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2020-06-21 23:04:59
+[INFO]-[Thread: Thread-1]-[io.undertow.Undertow.stop()]: stopping server: Undertow - 2.0.30.Final
+
+2020-06-21 23:05:38
+[DEBUG]-[Thread: main]-[io.undertow.UndertowLogger.<clinit>()]: Logging Provider: org.jboss.logging.Log4jLoggerProvider
+
+2020-06-21 23:05:38
+[DEBUG]-[Thread: main]-[org.jboss.logging.DelegatingBasicLogger.debugf()]: Setting default session timeout to 1800
+
+2020-06-21 23:05:38
+[DEBUG]-[Thread: main]-[io.undertow.server.session.InMemorySessionManager.registerSessionListener()]: Registered session listener io.undertow.servlet.core.SessionListenerBridge@28c4711c
+
+2020-06-21 23:05:38
+[INFO]-[Thread: main]-[com.alibaba.druid.pool.DruidDataSource.init()]: {dataSource-1} inited
+
+2020-06-21 23:05:38
+[INFO]-[Thread: main]-[io.undertow.Undertow.start()]: starting server: Undertow - 2.0.30.Final
+
+2020-06-21 23:05:38
+[INFO]-[Thread: main]-[org.xnio.Xnio.<clinit>()]: XNIO version 3.3.8.Final
+
+2020-06-21 23:05:38
+[INFO]-[Thread: main]-[org.xnio.nio.NioXnio.<clinit>()]: XNIO NIO Implementation Version 3.3.8.Final
+
+2020-06-21 23:05:39
+[DEBUG]-[Thread: XNIO-1 I/O-3]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-3', selector sun.nio.ch.WindowsSelectorImpl@338f1d61
+
+2020-06-21 23:05:39
+[DEBUG]-[Thread: XNIO-1 I/O-4]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-4', selector sun.nio.ch.WindowsSelectorImpl@50c94f5b
+
+2020-06-21 23:05:39
+[DEBUG]-[Thread: XNIO-1 I/O-2]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-2', selector sun.nio.ch.WindowsSelectorImpl@714912a0
+
+2020-06-21 23:05:39
+[DEBUG]-[Thread: XNIO-1 I/O-1]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-1', selector sun.nio.ch.WindowsSelectorImpl@78c9fbca
+
+2020-06-21 23:05:39
+[DEBUG]-[Thread: XNIO-1 Accept]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 Accept', selector sun.nio.ch.WindowsSelectorImpl@1c302dc2
+
+2020-06-21 23:05:39
+[DEBUG]-[Thread: XNIO-1 I/O-12]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-12', selector sun.nio.ch.WindowsSelectorImpl@6ae7806f
+
+2020-06-21 23:05:39
+[DEBUG]-[Thread: XNIO-1 I/O-11]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-11', selector sun.nio.ch.WindowsSelectorImpl@25bfa8c4
+
+2020-06-21 23:05:39
+[DEBUG]-[Thread: XNIO-1 I/O-8]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-8', selector sun.nio.ch.WindowsSelectorImpl@1a3034a8
+
+2020-06-21 23:05:39
+[DEBUG]-[Thread: XNIO-1 I/O-9]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-9', selector sun.nio.ch.WindowsSelectorImpl@435a7e72
+
+2020-06-21 23:05:39
+[DEBUG]-[Thread: XNIO-1 I/O-10]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-10', selector sun.nio.ch.WindowsSelectorImpl@6e55c5
+
+2020-06-21 23:05:39
+[DEBUG]-[Thread: main]-[io.undertow.Undertow.start()]: Configuring listener with protocol HTTP for interface 0.0.0.0 and port 80
+
+2020-06-21 23:05:39
+[DEBUG]-[Thread: XNIO-1 I/O-7]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-7', selector sun.nio.ch.WindowsSelectorImpl@5f72038a
+
+2020-06-21 23:05:39
+[DEBUG]-[Thread: XNIO-1 I/O-6]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-6', selector sun.nio.ch.WindowsSelectorImpl@d3a195f
+
+2020-06-21 23:05:39
+[DEBUG]-[Thread: XNIO-1 I/O-5]-[org.xnio.nio.WorkerThread.run()]: Started channel thread 'XNIO-1 I/O-5', selector sun.nio.ch.WindowsSelectorImpl@1ed3f854
+
+2020-06-21 23:05:40
+[INFO]-[Thread: Thread-1]-[com.alibaba.druid.pool.DruidDataSource.close()]: {dataSource-1} closed
+
+2020-06-21 23:05:40
+[INFO]-[Thread: Thread-1]-[io.undertow.Undertow.stop()]: stopping server: Undertow - 2.0.30.Final
